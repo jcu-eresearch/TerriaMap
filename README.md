@@ -1,7 +1,28 @@
 Terria Map
 ==========
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/TerriaJS/TerriaMap.svg)](https://greenkeeper.io/)
-![Terria logo](terria-logo.png "Terria logo")
+![Terria screenshot](terria-screenshot.png "Terria screenshot")
 
-This is a complete website built using the TerriaJS library. See the [TerriaJS README](https://github.com/TerriaJS/TerriaJS) for information about TerriaJS, and getting started using this repository.
+
+### Technical
+
+* Built in Ecmascript 2015, compiled with Babel to ES5 using Gulp.
+* Supports IE9 and later.
+* [TerriaJS Server component](https://github.com/TerriajS/TerriaJS-Server) runs in NodeJS and provides proxying for web services that don't support CORS or require authentication.
+* Dependencies are [managed in NPM](https://www.npmjs.com/~terria) and assembled using WebPack.
+
+### Getting Started ###
+Pre-requisites: Git, NodeJS, NPM, GDAL (optional).
+
+```
+sudo npm install -g gulp                           # Install gulp, the build tool
+git clone https://github.com/TerriaJS/TerriaMap    # Get the code
+cd TerriaMap
+npm install                                        # Install dependencies
+npm start                                          # Start the server in the background
+gulp watch                                         # Build the site, and watch for changes.
+```
+
+Now visit the site in your browser at `http://localhost:3001`.
+
+See the [wiki](https://github.com/NICTA/nationalmap/wiki) for more detailed information about how to build and run it.
