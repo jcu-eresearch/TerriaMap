@@ -66,6 +66,28 @@ gulp.task('watch-app', ['check-terriajs-dependencies'], function(done) {
     watchWebpack(webpack, webpackConfig, done);
 });
 
+gulp.task('build-css', function() {
+    var less = require('gulp-less');
+    var NpmImportPlugin = require('less-plugin-npm-import');
+    var rename = require('gulp-rename');
+
+    return gulp.src('./index.less')
+        .on('error', onError)
+        .pipe(less({
+            plugins: [
+                new NpmImportPlugin()
+            ]
+        }))
+        .pipe(rename('TdhMap.css'))
+        .pipe(gulp.dest('./wwwroot/build/'));
+});
+
+gulp.task('watch-css', ['build-css'], function() {
+    var terriaStylesGlob = path.join(getPackageRoot('terriajs'), 'lib', 'Styles', '**', '*.less');
+    var appStylesGlob = path.join(__dirname, 'lib', 'Styles', '**', '*.less');
+    return gulp.watch(['./index.less', terriaStylesGlob, appStylesGlob], watchOptions, ['build-css']);
+});
+
 gulp.task('copy-terriajs-assets', function() {
     var terriaWebRoot = path.join(getPackageRoot('terriajs'), 'wwwroot');
     var sourceGlob = path.join(terriaWebRoot, '**');

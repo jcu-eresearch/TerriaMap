@@ -3,6 +3,7 @@
     initializationUrls: [
         "terria"
     ],
+<<<<<<< HEAD
     parameters: {
         bingMapsKey: "AkaOmRFtjAb71cXgLwAGtLbj2RpkPKtVqAIroFQsocfurCBILxIeAWPkil7hhRy_",
         googleUrlShortenerKey: null,
@@ -44,8 +45,26 @@
 
         // See comments in lib/Views/global.scss for further information about customising colors, logos, fonts etc.
         brandBarElements: [
+=======
+    "parameters": {
+        "bingMapsKey": "AsHSoLOTcVFgFjsd0U3FqmyI-6riq-Y0-y8sVkj0NZLHJU1YqnyaChyBmhHiEwM3",
+        "googleUrlShortenerKey": null,
+        "googleAnalyticsKey": null,
+        "googleAnalyticsOptions": null,
+        "disclaimer": {
+            "text": "Disclaimer: This map must not be used for navigation or precise spatial analysis",
+            "url": ""
+        },
+        "developerAttribution": {
+            "text": "JCU eResearch Centre",
+            "link": "http://eresearch.jcu.edu.au"
+        },
+        "appName": "Terria Map",
+        "supportEmail-CHANGETHIS": "eresearch@jcu.edu.au",
+        "brandBarElements": [
+>>>>>>> progress with branding/colouring
             "",
-            "<a target=\"_blank\" href=\"http://www.nicta.com.au\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
+            "<a target=\"_blank\" href=\"http://tropicaldatahub.org\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
             ""
         ],
         // Shown when things go wrong.
