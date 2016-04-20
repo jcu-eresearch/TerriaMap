@@ -1,4 +1,29 @@
-[![Build Status](https://travis-ci.org/NICTA/nationalmap.svg?branch=master)](https://travis-ci.org/TerriaJS/TerriaMap)
+
+Tropical Data Hub at JCU: Map Theatre
+=====================================
+
+This is a theatre for data exploration that presents TDH data in a
+spatial context.  Or as a normal human would say, shows stuff on a
+map.
+
+It's based on Terria Map, which powers the awesome
+[NationalMap](nationalmap.gov.au).
+
+To get started:
+
+```
+git clone https://github.com/jcu-eresearch/jcu-maps.git
+cd jcu-maps
+npm install   # Install dependencies, including gulp
+npm start     # Start the server in the background
+gulp watch    # Build the site, and watch for changes.
+
+
+----
+
+Original Terria Map docs follow...
+
+----
 
 Terria Map
 ==========
@@ -29,16 +54,16 @@ Terria Map is a free web-based geospatial visualisation platform that drives [ht
 
 ### Getting Started ###
 Pre-requisites: Git, NodeJS, NPM, GDAL (optional).
- 
+
 ```
 sudo npm install -g gulp                           # Install gulp, the build tool
 git clone https://github.com/TerriaJS/TerriaMap    # Get the code
-cd TerriaMap                                       
+cd TerriaMap
 npm install                                        # Install dependencies
 npm start                                          # Start the server in the background
 gulp watch                                         # Build the site, and watch for changes.
 ```
 
 Now visit the site in your browser at `http://localhost:3001`.
- 
+
 See the [wiki](https://github.com/NICTA/nationalmap/wiki) for more detailed information about how to build and run it.
