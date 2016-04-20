@@ -4,7 +4,7 @@
         "test"
     ],
     "parameters": {
-        "bingMapsKey": "AkaOmRFtjAb71cXgLwAGtLbj2RpkPKtVqAIroFQsocfurCBILxIeAWPkil7hhRy_",
+        "bingMapsKey": "AsHSoLOTcVFgFjsd0U3FqmyI-6riq-Y0-y8sVkj0NZLHJU1YqnyaChyBmhHiEwM3",
         "googleUrlShortenerKey": null,
         "googleAnalyticsKey": null,
         "googleAnalyticsOptions": null,
@@ -12,15 +12,15 @@
             "text": "Disclaimer: This map must not be used for navigation or precise spatial analysis",
             "url": ""
         },
-        "developerAttribution-CHANGETHIS": {
-            "text": "Your organisation",
-            "link": "http://www.example.com"
+        "developerAttribution": {
+            "text": "JCU eResearch Centre",
+            "link": "http://eresearch.jcu.edu.au"
         },
         "appName": "Terria Map",
-        "supportEmail-CHANGETHIS": "help@example.com",
+        "supportEmail-CHANGETHIS": "eresearch@jcu.edu.au",
         "brandBarElements": [
             "",
-            "<a target=\"_blank\" href=\"http://www.nicta.com.au\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
+            "<a target=\"_blank\" href=\"http://tropicaldatahub.org\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
             ""
         ]
     }

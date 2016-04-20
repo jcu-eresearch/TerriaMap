@@ -61,7 +61,7 @@ gulp.task('build-css', function() {
                 new NpmImportPlugin()
             ]
         }))
-        .pipe(rename('TerriaMap.css'))
+        .pipe(rename('TdhMap.css'))
         .pipe(gulp.dest('./wwwroot/build/'));
 });
 

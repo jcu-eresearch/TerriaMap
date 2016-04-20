@@ -36,6 +36,7 @@
 @terriajs-path: "./TerriaJS";
 @cesium-path: "@{terriajs-path}/build/Cesium";
 
+
 @default-font: 'Roboto', sans-serif;
 @highlight-color: #68ADFE;
 @left-side-panels-width: 350px;
@@ -85,3 +86,53 @@
 
 // Modals
 @modal-bg-color: @panel-background-color;
+
+// ------------------------------------------------------------------
+// TDH colours
+@tdh-background: #2d4048;
+@tdh-headerbackground: #242732;
+@tdh-bodybackground: lighten(#efe6c5, 5%);
+
+// normal: efe6c5 / 239,230,197
+// lighter: fff5d1 / 255,245,209 (or just #fff)
+// darker: cfc6a9 / 207,198,169
+// shaded thing: 216,201,167
+
+// Panels
+@panel-background-color: @tdh-bodybackground;
+@panel-text-color: #222222;
+@panel-emphasized-text-color: #000000;
+@panel-selected-text-color: @highlight-color;
+@panel-box-shadow: 2px 2px 5px rgba(0,0,0,0.26);
+@panel-element-border: 1px solid rgba(100,100,100, 0.6);
+@panel-section-background-color: @tdh-headerbackground;
+@panel-form-input-background-color: #838689;
+@panel-form-input-text-color: #FFFFFF;
+@panel-form-button-background-color: #A1A3A6;
+@panel-form-button-text-color: #FFFFFF;
+
+// Explorer panel
+@explorer-panel-width: @left-side-panels-width;
+@explorer-panel-header-background-color: #757f88;
+@explorer-panel-inactive-tab-text-color: fade(@tdh-bodybackground, 80%);
+@explorer-panel-active-tab-text-color: #ffffff;
+@explorer-panel-active-tab-underline-color: @highlight-color;
+@explorer-panel-close-animation-length: 0.15s;
+@explorer-panel-tab-switch-animation-length: 0.15s;
+@explorer-panel-badge-background-color: @highlight-color;
+@explorer-panel-badge-text-color: #ffffff;
+
+.explorer-panel-header {
+	background: linear-gradient(to bottom, rgb(46,50,64) 0, rgb(30,33,42) 100%);
+}
+
+.explorer-panel-tab-active {
+	background: linear-gradient(to top, rgb(46,50,64) 0, rgb(30,33,42) 100%);
+	border-bottom: none;
+}
+
+// Brand bar
+@brand-bar-background-color: @panel-section-background-color;
+@brand-bar-width: @left-side-panels-width;
+@brand-bar-height: 120px;
+
