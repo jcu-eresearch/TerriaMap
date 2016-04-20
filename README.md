@@ -17,7 +17,7 @@ cd jcu-maps
 npm install   # Install dependencies, including gulp
 npm start     # Start the server in the background
 gulp watch    # Build the site, and watch for changes.
-
+```
 
 ----
 
