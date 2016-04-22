@@ -2,7 +2,7 @@
 // TDH colours
 @tdh-background: #2d4048;
 @tdh-headerbackground: #242732;
-@tdh-bodybackground: lighten(#efe6c5, 5%);
+@tdh-bodybackground: #efe6c5;
 
 // normal: efe6c5 / 239,230,197
 // lighter: fff5d1 / 255,245,209 (or just #fff)
@@ -33,7 +33,7 @@
 @explorer-panel-badge-background-color: @highlight-color;
 @explorer-panel-badge-text-color: #ffffff;
 
-// TODO: put these rules somewhere else
+// TODO: should these rules be somewhere else?
 .explorer-panel-header {
 	background: linear-gradient(to bottom, rgb(46,50,64) 0, rgb(30,33,42) 100%);
 }
@@ -46,3 +46,39 @@
 @brand-bar-background-color: @panel-section-background-color;
 @brand-bar-width: @left-side-panels-width;
 @brand-bar-height: 120px;
+
+// the headings in the data catalog and similar panels have internal
+// variables setting their background colour to translucent black.
+// I want to set a fancier background that that, so I have to reach
+// right into the elements themselves.
+@catalog-top-group-background-color: lighten(@tdh-bodybackground, 5%);
+@now-viewing-top-row-background-color: lighten(@tdh-bodybackground, 5%);
+@search-provider-header-background-color: lighten(@tdh-bodybackground, 5%);
+@catalog-top-group-background-color: clear;
+@now-viewing-top-row-background-color: clear;
+@search-provider-header-background-color: clear;
+
+.data-catalog-top-group-header,
+.now-viewing-item-top-row,
+.search-tab-provider-header {
+	border-bottom: none;
+	background-image: radial-gradient(
+		ellipse 49% 99% at center bottom,
+		rgba(255,255,255, 0.5),
+		rgba(255,255,255, 0.2) 100%
+	);
+}
+
+.data-catalog-top-group-label,
+.search-tab-provider-label {
+	color: #333;
+	font-size: 90%;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    text-shadow: -1px 0 0.5px darken(saturate(@tdh-bodybackground,40%),15%), 1px 0 0.5px #fff, 1px 0 0.5px #fff;
+}
+
+
+
+
+
