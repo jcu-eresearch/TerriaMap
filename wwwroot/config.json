@@ -59,12 +59,12 @@
             "text": "JCU eResearch Centre",
             "link": "http://eresearch.jcu.edu.au"
         },
-        "appName": "Terria Map",
-        "supportEmail-CHANGETHIS": "eresearch@jcu.edu.au",
+        "appName": "TDH Map",
+        "supportEmail": "eresearch@jcu.edu.au",
         "brandBarElements": [
 >>>>>>> progress with branding/colouring
             "",
-            "<a target=\"_blank\" href=\"http://tropicaldatahub.org\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
+            "<a target=\"_blank\" href=\"http://tropicaldatahub.org\"><img src=\"images/tdh_logo.png\" height=\"55\" title=\"Version: {{version}}\" /></a>",
             ""
         ],
         // Shown when things go wrong.
