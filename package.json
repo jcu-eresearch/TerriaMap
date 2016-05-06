@@ -66,7 +66,7 @@
   "scripts": {
     "start": "bash ./node_modules/terriajs-server/run_server.sh --config-file devserverconfig.json",
     "stop": "bash ./node_modules/terriajs-server/stop_server.sh",
-    "postinstall": "npm start && gulp watch && echo 'Installation with NPM successful. What to do next:\\n  npm start       # Starts the server on port 3001\\n  gulp watch      # Builds NationalMap and dependencies, and rebuilds if files change.'",
+    "postinstall": "npm start && gulp build && echo 'Installation with NPM successful. What to do next:\\n  npm start       # Starts the server on port 3001\\n  gulp watch      # Builds NationalMap and dependencies, and rebuilds if files change.'",
     "build": "gulp build",
     "watch": "gulp watch"
   }
