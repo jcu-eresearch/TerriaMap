@@ -8,9 +8,7 @@
     "url": "http://github.com/TerriaJS/TerriaMap"
   },
   "dependencies": {
-    "terriajs-server": "^2.0.0"
-  },
-  "devDependencies": {
+    "terriajs-server": "^2.0.0",
     "babel-eslint": "^6.0.2",
     "eslint": "^2.7.0",
     "generate-terriajs-schema": "^1.2.1",
