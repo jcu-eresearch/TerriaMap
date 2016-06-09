@@ -1,5 +1,6 @@
 Tropical Data Hub at JCU: Map Theatre
 =====================================
+![JCU Maps logo](blue-shadow.png "JCU Maps logo")
 
 This is a theatre for data exploration that presents TDH data in a
 spatial context.  Or as a normal human would say, shows stuff on a
