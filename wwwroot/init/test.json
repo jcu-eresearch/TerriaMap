@@ -5,24 +5,6 @@
       "type": "group",
       "items": [
         {
-          "name": "Tile Sets",
-          "type": "group",
-          "items": [
-            {
-              "name": "Topography",
-              "type": "esri-mapServer",
-              "url": "http://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/Topographic/ImageServer",
-              "legendUrl": "http://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/Topographic/ImageServer/legend",
-              "rectangle": [
-                140,
-                -44,
-                150,
-                -40
-              ]
-            }
-          ]
-        },
-        {
           "name": "Temporal",
           "type": "group",
           "items": [
@@ -410,7 +392,7 @@
                     }
                   }
                 ]
-              }              
+              }
             }
           ]
         },
