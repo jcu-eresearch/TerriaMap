@@ -1,4 +1,3 @@
-
 Tropical Data Hub at JCU: Map Theatre
 =====================================
 
