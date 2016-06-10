@@ -1,7 +1,7 @@
 {
     "initializationUrls" : [
         "terria",
-        "test"
+        "jcu"
     ],
     "parameters": {
         "bingMapsKey": "AsHSoLOTcVFgFjsd0U3FqmyI-6riq-Y0-y8sVkj0NZLHJU1YqnyaChyBmhHiEwM3",
@@ -25,4 +25,3 @@
         ]
     }
 }
-
