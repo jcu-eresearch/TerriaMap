@@ -231,7 +231,7 @@
           "type": "group",
           "items": [
             {
-              "name": "CoralTraits Database Small (GeoJSON)",
+              "name": "JC15-Coral Traits Database (GeoJSON)",
               "type": "geojson",
               "url": "test/jc15-coraltraits-small.geojson",
               "initialMessage": {
