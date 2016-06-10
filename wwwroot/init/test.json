@@ -231,6 +231,16 @@
           "type": "group",
           "items": [
             {
+              "name": "CoralTraits Database Small (GeoJSON)",
+              "type": "geojson",
+              "url": "test/jc15-coraltraits-small.geojson",
+              "initialMessage": {
+                "title": "CoralTraits",
+                "content": "",
+                "key": "MyTestingKey"
+              }
+            },
+            {
               "name": "Cemeteries (GeoJSON)",
               "type": "geojson",
               "url": "test/cemeteries.geojson",
@@ -325,6 +335,11 @@
               "name": "Test styled and unstyled features",
               "type": "geojson",
               "url": "build/TerriaJS/test/GeoJSON/test-styles.geojson"
+            },
+            {
+              "name": "Test LARGE GEOJSON",
+              "type": "geojson",
+              "url": "test/large.geojson"
             },
             {
               "name": "Test overriding styled and unstyled features",
