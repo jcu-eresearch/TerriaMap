@@ -1,5 +1,5 @@
 {
-  "homeCamera": {
+  "initialCamera": {
     "north": -8,
     "east": 158,
     "south": -45,

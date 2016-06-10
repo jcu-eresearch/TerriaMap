@@ -1,4 +1,27 @@
 {
+  "initialCamera": {
+    "north": -8,
+    "east": 158,
+    "south": -45,
+    "west": 109,
+    "position": {
+                    "x": 30,
+                    "y": 30,
+                    "z": 30
+                },
+                "direction": {
+                    "x": 30,
+                    "y": 30,
+                    "z": 30
+                },
+                "up": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+              }
+            },
+
+
   "catalog": [
     {
       "name": "JCU Data",
@@ -198,7 +221,8 @@
               "type": "ogr",
               "url": "test/airports.zip"
             }
-          ]
+          ],
+          "isOpen": true
         }
       ],
       "isOpen": true
