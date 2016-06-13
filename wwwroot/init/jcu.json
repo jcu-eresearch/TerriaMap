@@ -15,7 +15,7 @@
       "items": [
 
         {
-          "name": "GeoJSON files",
+          "name": "JC15 Coral Traits",
           "type": "group",
           "items": [
             {
@@ -25,11 +25,48 @@
               "initialMessage": {
                 "title": "CoralTraits",
                 "content": "",
-                "key": "MyTestingKey"
+                "key": ""
               }
             }
           ],
           "isOpen": true
+        },
+        {
+          "name": "JC10 BRUVS",
+          "type": "group",
+          "items": [
+            {
+              "name": "Malaysia (GeoJSON)",
+              "type": "geojson",
+              "url": "test/bruvs-malaysia.geojson",
+              "initialMessage": {
+                "title": "JC10 BRUVS Malaysia",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Indonesia Kapoposang (GeoJSON)",
+              "type": "geojson",
+              "url": "test/bruvs-indonesia-kapoposang.geojson",
+              "initialMessage": {
+                "title": "JC10 BRUVS Indonesia",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Indonesia Nusapenida (GeoJSON)",
+              "type": "geojson",
+              "url": "test/bruvs-indonesia-nusapenida.geojson",
+              "initialMessage": {
+                "title": "JC10 BRUVS Indonesia",
+                "content": "",
+                "key": ""
+              }
+            }
+          ],
+          "isOpen": false
         }
       ],
       "isOpen": true

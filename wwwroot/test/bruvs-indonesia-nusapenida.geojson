@@ -1,0 +1,4221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_001",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "17",
+        "Depth (m)": "19.0",
+        "Time in": "8:52",
+        "Time out": "10:03",
+        "Duration": "1:11",
+        "Waypoint #": "001",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Suana\"; Malibu point",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_002",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "2",
+        "Depth (m)": "16.3",
+        "Time in": "8:58",
+        "Time out": "10:08",
+        "Duration": "1:10",
+        "Waypoint #": "002",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Suana\"; Malibu point",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_003",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "19",
+        "Depth (m)": "21.0",
+        "Time in": "9:03",
+        "Time out": "10:14",
+        "Duration": "1:11",
+        "Waypoint #": "003",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Suana\"; Malibu point",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_004",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "18",
+        "Depth (m)": "21.0",
+        "Time in": "9:06",
+        "Time out": "10:59",
+        "Duration": "1:53",
+        "Waypoint #": "004",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Suana\"; Malibu point; Dragged/temp lost",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_005",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "36",
+        "Depth (m)": "11.5",
+        "Time in": "9:11",
+        "Time out": "10:21",
+        "Duration": "1:10",
+        "Waypoint #": "005",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Semaya\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_006",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "37",
+        "Depth (m)": "9.2",
+        "Time in": "9:17",
+        "Time out": "10:36",
+        "Duration": "1:19",
+        "Waypoint #": "006",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "\"Semaya\"; near fishers village",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_007",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "15",
+        "Depth (m)": "8.2",
+        "Time in": "11:16",
+        "Time out": "12:18",
+        "Duration": "1:02",
+        "Waypoint #": "007",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "\"Semaya\"; near seweed farms",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Rolled over"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.36,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_008",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "6",
+        "Depth (m)": "12.9",
+        "Time in": "11:23",
+        "Time out": "12:30",
+        "Duration": "1:07",
+        "Waypoint #": "008",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "\"Semaya\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Bamboo shark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_009",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "4",
+        "Depth (m)": "14.7",
+        "Time in": "11:31",
+        "Time out": "12:37",
+        "Duration": "1:06",
+        "Waypoint #": "009",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "\"Semaya\"; redrop",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Land badly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_010",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "8.2",
+        "Time in": "11:35",
+        "Time out": "12:41",
+        "Duration": "1:06",
+        "Waypoint #": "010",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Semaya\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_011",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "10.7",
+        "Time in": "11:39",
+        "Time out": "12:45",
+        "Duration": "1:06",
+        "Waypoint #": "011",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Karang Ampel\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_012",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "15.8",
+        "Time in": "11:42",
+        "Time out": "12:49",
+        "Duration": "1:07",
+        "Waypoint #": "012",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Karang Ampel\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_013",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "5.5",
+        "Time in": "13:01",
+        "Time out": "14:40",
+        "Duration": "1:39",
+        "Waypoint #": "013",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Nusa Batu Padas\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_014",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "8.7",
+        "Time in": "13:05",
+        "Time out": "14:37",
+        "Duration": "1:32",
+        "Waypoint #": "014",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Nusa Batu Padas\"; bait almost empty",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_015",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "23.6",
+        "Time in": "13:09",
+        "Time out": "14:34",
+        "Duration": "1:25",
+        "Waypoint #": "015",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Nusa Batu Padas\"; unhabitant area",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_016",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "10.8",
+        "Time in": "13:14",
+        "Time out": "14:31",
+        "Duration": "1:17",
+        "Waypoint #": "016",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Nusa Batu Padas\"; unhabitant area",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Landed on bommie; can't see bait bag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_017",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "8.9",
+        "Time in": "13:19",
+        "Time out": "14:27",
+        "Duration": "1:08",
+        "Waypoint #": "017",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "Bay; Cliff",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_018",
+        "Date": "3/24/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "32.4",
+        "Time in": "13:22",
+        "Time out": "14:23",
+        "Duration": "1:01",
+        "Waypoint #": "018",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "Bay; Cliff",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_019",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "10.0",
+        "Time in": "8:15",
+        "Time out": "9:26",
+        "Duration": "1:11",
+        "Waypoint #": "019",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Batu Abah\"; bay; resort",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_020",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "15.6",
+        "Time in": "8:19",
+        "Time out": "9:30",
+        "Duration": "1:11",
+        "Waypoint #": "020",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Batu Abah\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_021",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "24",
+        "Depth (m)": "11.2",
+        "Time in": "8:22",
+        "Time out": "9:34",
+        "Duration": "1:12",
+        "Waypoint #": "021",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Batu Abah\"; \"Rusty Bay\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_022",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "16",
+        "Depth (m)": "12.7",
+        "Time in": "8:26",
+        "Time out": "9:37",
+        "Duration": "1:11",
+        "Waypoint #": "022",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "Redrop",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_023",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "25",
+        "Depth (m)": "24.5",
+        "Time in": "8:32",
+        "Time out": "9:41",
+        "Duration": "1:09",
+        "Waypoint #": "023",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_024",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "34",
+        "Depth (m)": "24.6",
+        "Time in": "8:37",
+        "Time out": "9:44",
+        "Duration": "1:07",
+        "Waypoint #": "024",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Current meter",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_025",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "8.8",
+        "Time in": "10:00",
+        "Time out": "11:12",
+        "Duration": "1:12",
+        "Waypoint #": "025",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Nusa Batu Padas\"; Current meter",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_026",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "13",
+        "Depth (m)": "28.1",
+        "Time in": "10:04",
+        "Time out": "11:16",
+        "Duration": "1:12",
+        "Waypoint #": "026",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Nusa Batu Padas\"; lost bait pole",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_027",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "9.7",
+        "Time in": "10:08",
+        "Time out": "11:20",
+        "Duration": "1:12",
+        "Waypoint #": "027",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Nusa Batu Padas\"; CORE ZONE",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_028",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "14",
+        "Depth (m)": "5.9",
+        "Time in": "10:13",
+        "Time out": "11:24",
+        "Duration": "1:11",
+        "Waypoint #": "028",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Volcom beach\"; lost bait pole",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_029",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "22",
+        "Depth (m)": "24.0",
+        "Time in": "10:17",
+        "Time out": "11:27",
+        "Duration": "1:10",
+        "Waypoint #": "029",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_030",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "37",
+        "Depth (m)": "13.6",
+        "Time in": "10:20",
+        "Time out": "11:31",
+        "Duration": "1:11",
+        "Waypoint #": "030",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_031",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "21",
+        "Depth (m)": "11.0",
+        "Time in": "11:48",
+        "Time out": "12:59",
+        "Duration": "1:11",
+        "Waypoint #": "031",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Wates\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_032",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "15",
+        "Depth (m)": "14.4",
+        "Time in": "11:51",
+        "Time out": "13:02",
+        "Duration": "1:11",
+        "Waypoint #": "032",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Wates\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_033",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "18.4",
+        "Time in": "11:55",
+        "Time out": "13:05",
+        "Duration": "1:10",
+        "Waypoint #": "033",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Wates\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_034",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "6",
+        "Depth (m)": "13.9",
+        "Time in": "11:59",
+        "Time out": "13:09",
+        "Duration": "1:10",
+        "Waypoint #": "034",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Wates\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_035",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "2",
+        "Depth (m)": "12.7",
+        "Time in": "12:03",
+        "Time out": "13:12",
+        "Duration": "1:09",
+        "Waypoint #": "035",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Wates\"; Sendiing",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_036",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "11.7",
+        "Time in": "12:11",
+        "Time out": "13:18",
+        "Duration": "1:07",
+        "Waypoint #": "036",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Short bait pole",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_037",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "13.9",
+        "Time in": "13:29",
+        "Time out": "14:38",
+        "Duration": "1:09",
+        "Waypoint #": "037",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "Short bait pole; batt out, cam off",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_038",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "18.7",
+        "Time in": "13:32",
+        "Time out": "14:41",
+        "Duration": "1:09",
+        "Waypoint #": "038",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Kuning point\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_039",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "13.4",
+        "Time in": "13:36",
+        "Time out": "14:45",
+        "Duration": "1:09",
+        "Waypoint #": "039",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "37 m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_040",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "16.2",
+        "Time in": "13:40",
+        "Time out": "14:49",
+        "Duration": "1:09",
+        "Waypoint #": "040",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_041",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "37.2",
+        "Time in": "13:46",
+        "Time out": "14:53",
+        "Duration": "1:07",
+        "Waypoint #": "041",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_042",
+        "Date": "3/25/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "12.1",
+        "Time in": "13:52",
+        "Time out": "14:57",
+        "Duration": "1:05",
+        "Waypoint #": "042",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Cape Bakung\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_043",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "35",
+        "Depth (m)": "23.0",
+        "Time in": "8:22",
+        "Time out": "9:30",
+        "Duration": "1:08",
+        "Waypoint #": "043",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Sekartaji\"; started 7:38; arrived 8:05",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing down, dragged; Mask ray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_044",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "38",
+        "Depth (m)": "16.5",
+        "Time in": "8:26",
+        "Time out": "9:35",
+        "Duration": "1:09",
+        "Waypoint #": "044",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Sekartaji\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_045",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "27.0",
+        "Time in": "8:29",
+        "Time out": "9:39",
+        "Duration": "1:10",
+        "Waypoint #": "045",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Sekartaji\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_046",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "17",
+        "Depth (m)": "7.4",
+        "Time in": "8:33",
+        "Time out": "9:44",
+        "Duration": "1:11",
+        "Waypoint #": "046",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_047",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "19",
+        "Depth (m)": "26.1",
+        "Time in": "8:37",
+        "Time out": "9:47",
+        "Duration": "1:10",
+        "Waypoint #": "047",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Bamboo shark; dragged"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_048",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "13.4",
+        "Time in": "8:46",
+        "Time out": "9:50",
+        "Duration": "1:04",
+        "Waypoint #": "048",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Manta point\"; divers",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_049",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "19.0",
+        "Time in": "10:01",
+        "Time out": "11:07",
+        "Duration": "1:06",
+        "Waypoint #": "049",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Manta point\"; divers",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_050",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "33",
+        "Depth (m)": "1.9",
+        "Time in": "10:06",
+        "Time out": "11:10",
+        "Duration": "1:04",
+        "Waypoint #": "050",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Manta point\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_051",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "34",
+        "Depth (m)": "8.5",
+        "Time in": "10:10",
+        "Time out": "11:14",
+        "Duration": "1:04",
+        "Waypoint #": "051",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Manta point lama\" / \"Peguyangan spring\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_052",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "19.3",
+        "Time in": "10:14",
+        "Time out": "11:23",
+        "Duration": "1:09",
+        "Waypoint #": "052",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Manta point lama\" / \"Peguyangan spring\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_053",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "22",
+        "Depth (m)": "15.0",
+        "Time in": "10:18",
+        "Time out": "11:29",
+        "Duration": "1:11",
+        "Waypoint #": "053",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Manta point lama\" / \"Peguyangan spring\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_054",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "24",
+        "Depth (m)": "29.8",
+        "Time in": "10:22",
+        "Time out": "11:32",
+        "Duration": "1:10",
+        "Waypoint #": "054",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Batu meling\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_001",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "26",
+        "Depth (m)": "22.1",
+        "Time in": "11:42",
+        "Time out": "12:52",
+        "Duration": "1:10",
+        "Waypoint #": "001",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_002",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "32",
+        "Depth (m)": "22.9",
+        "Time in": "11:45",
+        "Time out": "12:56",
+        "Duration": "1:11",
+        "Waypoint #": "002",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_003",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "37",
+        "Depth (m)": "22.1",
+        "Time in": "11:50",
+        "Time out": "12:59",
+        "Duration": "1:09",
+        "Waypoint #": "003",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_004",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "18.7",
+        "Time in": "11:54",
+        "Time out": "13:04",
+        "Duration": "1:10",
+        "Waypoint #": "004",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_005",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "28.2",
+        "Time in": "11:59",
+        "Time out": "13:08",
+        "Duration": "1:09",
+        "Waypoint #": "005",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_006",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "15",
+        "Depth (m)": "12.5",
+        "Time in": "12:02",
+        "Time out": "13:11",
+        "Duration": "1:09",
+        "Waypoint #": "006",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_007",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "15.7",
+        "Time in": "13:21",
+        "Time out": "14:33",
+        "Duration": "1:12",
+        "Waypoint #": "007",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Cam off; Cam #3; SD #4",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Maybe a little short-battery died"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_008",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "11.7",
+        "Time in": "13:24",
+        "Time out": "14:38",
+        "Duration": "1:14",
+        "Waypoint #": "008",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Strong surge- BRUV does well! Good example"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_009",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "29.0",
+        "Time in": "13:29",
+        "Time out": "14:42",
+        "Duration": "1:13",
+        "Waypoint #": "009",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Batu teleh\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "BRUV dragged; still viewable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_010",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "21.0",
+        "Time in": "13:36",
+        "Time out": "14:47",
+        "Duration": "1:11",
+        "Waypoint #": "010",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Second shot",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_011",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "12.9",
+        "Time in": "13:41",
+        "Time out": "14:53",
+        "Duration": "1:12",
+        "Waypoint #": "011",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Manta bay\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_012",
+        "Date": "3/26/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "12.3",
+        "Time in": "13:43",
+        "Time out": "14:55",
+        "Duration": "1:12",
+        "Waypoint #": "012",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_013",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "7",
+        "Depth (m)": "8.8",
+        "Time in": "8:07",
+        "Time out": "9:15",
+        "Duration": "1:08",
+        "Waypoint #": "013",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "\"Broken beach; bait almost gone; Started 7:47",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_014",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "23",
+        "Depth (m)": "18.1",
+        "Time in": "8:11",
+        "Time out": "9:21",
+        "Duration": "1:10",
+        "Waypoint #": "014",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "\"Cape seganing\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_015",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "5",
+        "Depth (m)": "26.5",
+        "Time in": "8:16",
+        "Time out": "9:28",
+        "Duration": "1:12",
+        "Waypoint #": "015",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Rainy",
+        "Comments": "\"Cape seganing\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_016",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "11",
+        "Depth (m)": "12.1",
+        "Time in": "8:18",
+        "Time out": "9:31",
+        "Duration": "1:13",
+        "Waypoint #": "016",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Rainy",
+        "Comments": "\"Manta point lama 2\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_017",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "18",
+        "Depth (m)": "19.7",
+        "Time in": "8:23",
+        "Time out": "9:34",
+        "Duration": "1:11",
+        "Waypoint #": "017",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Rainy",
+        "Comments": "\"Manta point lama 2\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mooray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_018",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "14",
+        "Depth (m)": "10.8",
+        "Time in": "8:27",
+        "Time out": "9:38",
+        "Duration": "1:11",
+        "Waypoint #": "018",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Rainy",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_019",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "21",
+        "Depth (m)": "20.8",
+        "Time in": "9:49",
+        "Time out": "10:55",
+        "Duration": "1:06",
+        "Waypoint #": "019",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Cloudy",
+        "Comments": "\"Ceningan Island\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_020",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "11.3",
+        "Time in": "9:53",
+        "Time out": "11:00",
+        "Duration": "1:07",
+        "Waypoint #": "020",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Cloudy",
+        "Comments": "\"Ceningan Island\"; bai almost gone",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_021",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "25",
+        "Depth (m)": "17.2",
+        "Time in": "9:57",
+        "Time out": "11:04",
+        "Duration": "1:07",
+        "Waypoint #": "021",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Channel; reef surf brake",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_022",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "23.7",
+        "Time in": "10:02",
+        "Time out": "11:08",
+        "Duration": "1:06",
+        "Waypoint #": "022",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Rainy",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_023",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "2",
+        "Depth (m)": "16.1",
+        "Time in": "10:06",
+        "Time out": "11:11",
+        "Duration": "1:05",
+        "Waypoint #": "023",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Rainy",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_024",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "20.7",
+        "Time in": "10:11",
+        "Time out": "15:46",
+        "Duration": "5:35",
+        "Waypoint #": "024",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Rainy",
+        "Comments": "SD card error; temporary lost; very strong current",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Worth watch very strong current BRUV lost but recovered; bamboo shark at the end"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_025",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "10.3",
+        "Time in": "13:10",
+        "Time out": "14:36",
+        "Duration": "1:26",
+        "Waypoint #": "025",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "1 Turtle sight",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_026",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "15.1",
+        "Time in": "13:12",
+        "Time out": "14:33",
+        "Duration": "1:21",
+        "Waypoint #": "026",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Sahyang\"; 4 dolphins sight",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_027",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "15.7",
+        "Time in": "13:16",
+        "Time out": "14:30",
+        "Duration": "1:14",
+        "Waypoint #": "027",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_028",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "17.1",
+        "Time in": "13:19",
+        "Time out": "14:27",
+        "Duration": "1:08",
+        "Waypoint #": "028",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Jungut batu point",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_029",
+        "Date": "3/27/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "14.6",
+        "Time in": "13:22",
+        "Time out": "14:24",
+        "Duration": "1:02",
+        "Waypoint #": "029",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Cam off",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_055",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "12.5",
+        "Time in": "8:02",
+        "Time out": "9:12",
+        "Duration": "1:10",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Karang sari\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_056",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "16",
+        "Depth (m)": "7.2",
+        "Time in": "8:06",
+        "Time out": "9:15",
+        "Duration": "1:09",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_057",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "30",
+        "Depth (m)": "18.5",
+        "Time in": "8:09",
+        "Time out": "9:17",
+        "Duration": "1:08",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_058",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "4",
+        "Depth (m)": "14.0",
+        "Time in": "8:12",
+        "Time out": "9:20",
+        "Duration": "1:08",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_059",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "17",
+        "Depth (m)": "9.5",
+        "Time in": "8:16",
+        "Time out": "9:24",
+        "Duration": "1:08",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPE_060",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "15.0",
+        "Time in": "8:20",
+        "Time out": "",
+        "Duration": "",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Batu murapan\"; lost in steep slope",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_30",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "14.0",
+        "Time in": "10:48",
+        "Time out": "11:56",
+        "Duration": "1:08",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Mola-mola sighted",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_31",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "13",
+        "Depth (m)": "14.9",
+        "Time in": "10:55",
+        "Time out": "11:59",
+        "Duration": "1:04",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_32",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "12",
+        "Depth (m)": "4.8",
+        "Time in": "10:59",
+        "Time out": "12:03",
+        "Duration": "1:04",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Redrop",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_33",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "36",
+        "Depth (m)": "5.0",
+        "Time in": "11:04",
+        "Time out": "12:06",
+        "Duration": "1:02",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_34",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "13.1",
+        "Time in": "11:07",
+        "Time out": "12:10",
+        "Duration": "1:03",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Sampalan port",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_35",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "8.8",
+        "Time in": "12:18",
+        "Time out": "13:25",
+        "Duration": "1:07",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Ferry port",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_36",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "7",
+        "Depth (m)": "11.1",
+        "Time in": "12:23",
+        "Time out": "13:29",
+        "Duration": "1:06",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Semaya ort",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_37",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "9.9",
+        "Time in": "12:25",
+        "Time out": "12:32",
+        "Duration": "0:07",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_38",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "18",
+        "Depth (m)": "14.7",
+        "Time in": "12:29",
+        "Time out": "13:35",
+        "Duration": "1:06",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Divers",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_39",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "11.6",
+        "Time in": "12:32",
+        "Time out": "13:37",
+        "Duration": "1:05",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Sental\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_40",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "7.3",
+        "Time in": "13:47",
+        "Time out": "14:57",
+        "Duration": "1:10",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_41",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "8.3",
+        "Time in": "13:50",
+        "Time out": "15:00",
+        "Duration": "1:10",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_42",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "9.5",
+        "Time in": "13:54",
+        "Time out": "15:05",
+        "Duration": "1:11",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_43",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "6.7",
+        "Time in": "13:57",
+        "Time out": "15:08",
+        "Duration": "1:11",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_44",
+        "Date": "3/29/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "8.4",
+        "Time in": "14:02",
+        "Time out": "15:13",
+        "Duration": "1:11",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_45",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "8.0",
+        "Time in": "9:08",
+        "Time out": "10:15",
+        "Duration": "1:07",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Toya pakeh\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Strong current; pulled over, bait pole broken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_46",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "8.4",
+        "Time in": "9:10",
+        "Time out": "10:18",
+        "Duration": "1:08",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_47",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "9.6",
+        "Time in": "9:13",
+        "Time out": "10:22",
+        "Duration": "1:09",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mooray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_48",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "12.1",
+        "Time in": "9:16",
+        "Time out": "10:25",
+        "Duration": "1:09",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Most ray Straigh away"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_49",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "6.8",
+        "Time in": "9:19",
+        "Time out": "10:29",
+        "Duration": "1:10",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Core zone; taken and put it back",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Pulled over by people"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_50",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "8.1",
+        "Time in": "10:40",
+        "Time out": "11:48",
+        "Duration": "1:08",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Core zone",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_51",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "9.1",
+        "Time in": "10:43",
+        "Time out": "11:52",
+        "Duration": "1:09",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Core zone",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_52",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "6.8",
+        "Time in": "10:47",
+        "Time out": "11:55",
+        "Duration": "1:08",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Core zone",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_53",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "9.5",
+        "Time in": "10:53",
+        "Time out": "11:57",
+        "Duration": "1:04",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Gamat bay\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_54",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "15.3",
+        "Time in": "10:58",
+        "Time out": "12:00",
+        "Duration": "1:02",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Short bait pole; taken and put it back",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Rolled over; Pulled over by diver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_55",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "11.6",
+        "Time in": "12:20",
+        "Time out": "13:27",
+        "Duration": "1:07",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Blue corner\"; not filming",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Not filming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_56",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "13.2",
+        "Time in": "12:23",
+        "Time out": "13:30",
+        "Duration": "1:07",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Blue corner\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Rolled over; Mooray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_57",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "23.8",
+        "Time in": "12:29",
+        "Time out": "13:35",
+        "Duration": "1:06",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Blue corner\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mooray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_58",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "13.5",
+        "Time in": "12:36",
+        "Time out": "13:38",
+        "Duration": "1:02",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Blue corner\"",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_59",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "19.4",
+        "Time in": "12:40",
+        "Time out": "13:45",
+        "Duration": "1:05",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "\"Jet point\"; short bait pole",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up-gets pulled upright"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_60",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "11.6",
+        "Time in": "13:53",
+        "Time out": "14:58",
+        "Duration": "1:05",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Short bait pole; near mangrove area",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_61",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "10.3",
+        "Time in": "13:56",
+        "Time out": "15:02",
+        "Duration": "1:06",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Cam-off",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Unsure why? Battery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_62",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "10.9",
+        "Time in": "13:58",
+        "Time out": "15:06",
+        "Duration": "1:08",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_63",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "10.6",
+        "Time in": "14:03",
+        "Time out": "?",
+        "Duration": "#VALUE!",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Near mangrove area; taken by people",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Taken by locals!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDPW_64",
+        "Date": "3/30/2016",
+        "Country": "Indonesia",
+        "Location": "Nusa Penida",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "19.0",
+        "Time in": "14:07",
+        "Time out": "?",
+        "Duration": "#VALUE!",
+        "Waypoint #": "",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "H",
+        "Weather": "Sunny",
+        "Comments": "Near mangrove area; taken by people",
+        "Hard-Drive 1": "16",
+        "Hard-Drive 2": "17",
+        "Hard-Drive 3": "",
+        "Comment 2": "Blotched ray! Taken by local!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          8
+        ]
+      }
+    }
+  ]
+}
