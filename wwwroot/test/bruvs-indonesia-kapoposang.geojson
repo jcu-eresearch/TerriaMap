@@ -1,0 +1,6736 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_001",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "16.7",
+        "Time in": "8:06",
+        "Time out": "9:20",
+        "Duration": "1:14",
+        "Waypoint #": "001",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_002",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "7.9",
+        "Time in": "8:15",
+        "Time out": "9:26",
+        "Duration": "1:11",
+        "Waypoint #": "002",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_003",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "13.7",
+        "Time in": "8:20",
+        "Time out": "9:31",
+        "Duration": "1:11",
+        "Waypoint #": "003",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_004",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "11.3",
+        "Time in": "8:25",
+        "Time out": "9:34",
+        "Duration": "1:09",
+        "Waypoint #": "004",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_005",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "20.5",
+        "Time in": "8:30",
+        "Time out": "9:38",
+        "Duration": "1:08",
+        "Waypoint #": "005",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_006",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "14.2",
+        "Time in": "8:35",
+        "Time out": "9:42",
+        "Duration": "1:07",
+        "Waypoint #": "006",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mask ra-2nd vid; turtle right at end"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_007",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "37",
+        "Depth (m)": "12.3",
+        "Time in": "9:51",
+        "Time out": "11:00",
+        "Duration": "1:09",
+        "Waypoint #": "007",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Pulled up by someone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_008",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "9.6",
+        "Time in": "9:55",
+        "Time out": "11:04",
+        "Duration": "1:09",
+        "Waypoint #": "008",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_009",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "18",
+        "Depth (m)": "11.5",
+        "Time in": "10:02",
+        "Time out": "11:09",
+        "Duration": "1:07",
+        "Waypoint #": "009",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_010",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "9.6",
+        "Time in": "10:06",
+        "Time out": "11:12",
+        "Duration": "1:06",
+        "Waypoint #": "010",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mask ray - 3/4 through 3rd video"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_011",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "16.4",
+        "Time in": "10:10",
+        "Time out": "11:16",
+        "Duration": "1:06",
+        "Waypoint #": "011",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_012",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "4.9",
+        "Time in": "10:16",
+        "Time out": "11:22",
+        "Duration": "1:06",
+        "Waypoint #": "012",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_013",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "10",
+        "Depth (m)": "9.1",
+        "Time in": "11:29",
+        "Time out": "12:37",
+        "Duration": "1:08",
+        "Waypoint #": "013",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mooray_1-5:08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_014",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "22.0",
+        "Time in": "11:32",
+        "Time out": "12:40",
+        "Duration": "1:08",
+        "Waypoint #": "014",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_015",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "6.7",
+        "Time in": "11:41",
+        "Time out": "12:45",
+        "Duration": "1:04",
+        "Waypoint #": "015",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_016",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "7.5",
+        "Time in": "11:47",
+        "Time out": "12:49",
+        "Duration": "1:02",
+        "Waypoint #": "016",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_017",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "22",
+        "Depth (m)": "4.9",
+        "Time in": "11:53",
+        "Time out": "12:53",
+        "Duration": "1:00",
+        "Waypoint #": "017",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Kuhlii_1-10:21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_018",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "31.9",
+        "Time in": "12:01",
+        "Time out": "13:06",
+        "Duration": "1:05",
+        "Waypoint #": "018",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "\"Killing field\"; bait almost gone",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Black tip reef shark; 3/4 way through 1st video"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_019",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "4.9",
+        "Time in": "13:17",
+        "Time out": "14:41",
+        "Duration": "1:24",
+        "Waypoint #": "019",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Shark point\"",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mask ray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_020",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "4.2",
+        "Time in": "13:21",
+        "Time out": "14:35",
+        "Duration": "1:14",
+        "Waypoint #": "020",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Shark point\"",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Turtle at start/mask ray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_021",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "5.3",
+        "Time in": "13:27",
+        "Time out": "14:48",
+        "Duration": "1:21",
+        "Waypoint #": "021",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Shark point\"",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mask ray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_022",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "25.0",
+        "Time in": "13:35",
+        "Time out": "14:56",
+        "Duration": "1:21",
+        "Waypoint #": "022",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Marjono point\"; 1 turtle sight",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Wall-lands badly-topless"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_023",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "4.0",
+        "Time in": "13:39",
+        "Time out": "15:04",
+        "Duration": "1:25",
+        "Waypoint #": "023",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Tanjung 2\"",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_024",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "3",
+        "Depth (m)": "4.1",
+        "Time in": "13:44",
+        "Time out": "15:09",
+        "Duration": "1:25",
+        "Waypoint #": "024",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Tanjung 2\"",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Kuhlii_0-4:10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_025",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "36",
+        "Depth (m)": "3.0",
+        "Time in": "15:14",
+        "Time out": "16:24",
+        "Duration": "1:10",
+        "Waypoint #": "025",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Nakano",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mooray_0-3:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_026",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "35",
+        "Depth (m)": "7.8",
+        "Time in": "15:19",
+        "Time out": "16:30",
+        "Duration": "1:11",
+        "Waypoint #": "026",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_027",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "14.2",
+        "Time in": "15:23",
+        "Time out": "16:35",
+        "Duration": "1:12",
+        "Waypoint #": "027",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mask ray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_028",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "27",
+        "Depth (m)": "6.9",
+        "Time in": "15:29",
+        "Time out": "16:40",
+        "Duration": "1:11",
+        "Waypoint #": "028",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "1 Turtle sight",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Faced up; Turtle_1-00:11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_029",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "7",
+        "Depth (m)": "45.0",
+        "Time in": "15:37",
+        "Time out": "16:45",
+        "Duration": "1:08",
+        "Waypoint #": "029",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Point 28\"",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_030",
+        "Date": "4/5/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "30",
+        "Depth (m)": "11.7",
+        "Time in": "15:41",
+        "Time out": "16:50",
+        "Duration": "1:09",
+        "Waypoint #": "030",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_031",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "9",
+        "Depth (m)": "28.8",
+        "Time in": "7:48",
+        "Time out": "9:01",
+        "Duration": "1:13",
+        "Waypoint #": "031",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Rainy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_032",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "18",
+        "Depth (m)": "17.4",
+        "Time in": "7:55",
+        "Time out": "9:06",
+        "Duration": "1:11",
+        "Waypoint #": "032",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Rainy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_033",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "37",
+        "Depth (m)": "26.2",
+        "Time in": "8:00",
+        "Time out": "9:10",
+        "Duration": "1:10",
+        "Waypoint #": "033",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Rainy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_034",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "15.2",
+        "Time in": "8:04",
+        "Time out": "9:15",
+        "Duration": "1:11",
+        "Waypoint #": "034",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Rainy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_035",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "9.7",
+        "Time in": "8:08",
+        "Time out": "9:24",
+        "Duration": "1:16",
+        "Waypoint #": "035",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Rainy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_036",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "23.5",
+        "Time in": "8:15",
+        "Time out": "9:30",
+        "Duration": "1:15",
+        "Waypoint #": "036",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Rainy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_037",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "25.0",
+        "Time in": "9:42",
+        "Time out": "10:56",
+        "Duration": "1:14",
+        "Waypoint #": "037",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Protected zone; SD card FULL",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_038",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "22.8",
+        "Time in": "9:52",
+        "Time out": "11:02",
+        "Duration": "1:10",
+        "Waypoint #": "038",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Protected zone",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_039",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "20.3",
+        "Time in": "9:58",
+        "Time out": "11:08",
+        "Duration": "1:10",
+        "Waypoint #": "039",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Protected zone",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_040",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "17.9",
+        "Time in": "10:04",
+        "Time out": "11:13",
+        "Duration": "1:09",
+        "Waypoint #": "040",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Protected zone",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_041",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "11.0",
+        "Time in": "10:10",
+        "Time out": "11:18",
+        "Duration": "1:08",
+        "Waypoint #": "041",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Protected zone",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_042",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "33.3",
+        "Time in": "10:19",
+        "Time out": "11:25",
+        "Duration": "1:06",
+        "Waypoint #": "042",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Protected zone",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_043",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "30.9",
+        "Time in": "11:38",
+        "Time out": "12:51",
+        "Duration": "1:13",
+        "Waypoint #": "043",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_044",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "36",
+        "Depth (m)": "24.6",
+        "Time in": "11:44",
+        "Time out": "12:56",
+        "Duration": "1:12",
+        "Waypoint #": "044",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Cam Off; cam #6",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_045",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "6.9",
+        "Time in": "11:50",
+        "Time out": "13:02",
+        "Duration": "1:12",
+        "Waypoint #": "045",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_046",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "11.8",
+        "Time in": "11:57",
+        "Time out": "13:08",
+        "Duration": "1:11",
+        "Waypoint #": "046",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_047",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "8.5",
+        "Time in": "12:10",
+        "Time out": "13:13",
+        "Duration": "1:03",
+        "Waypoint #": "047",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "re-drop; broken bait bag",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_048",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "7",
+        "Depth (m)": "23.1",
+        "Time in": "12:16",
+        "Time out": "13:19",
+        "Duration": "1:03",
+        "Waypoint #": "048",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_049",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "16",
+        "Depth (m)": "12.1",
+        "Time in": "13:25",
+        "Time out": "14:37",
+        "Duration": "1:12",
+        "Waypoint #": "049",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "\"Plawangan\"",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_050",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "15.3",
+        "Time in": "13:31",
+        "Time out": "14:43",
+        "Duration": "1:12",
+        "Waypoint #": "050",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_051",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "15.6",
+        "Time in": "13:35",
+        "Time out": "14:47",
+        "Duration": "1:12",
+        "Waypoint #": "051",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_052",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "3",
+        "Depth (m)": "14.8",
+        "Time in": "13:42",
+        "Time out": "14:53",
+        "Duration": "1:11",
+        "Waypoint #": "052",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_053",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "23",
+        "Depth (m)": "33.2",
+        "Time in": "13:48",
+        "Time out": "14:58",
+        "Duration": "1:10",
+        "Waypoint #": "053",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Faced up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_054",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "40",
+        "Depth (m)": "7.6",
+        "Time in": "13:53",
+        "Time out": "15:05",
+        "Duration": "1:12",
+        "Waypoint #": "054",
+        "": "",
+        "Viz: L, M, H": "L",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_055",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "7.4",
+        "Time in": "15:11",
+        "Time out": "16:22",
+        "Duration": "1:11",
+        "Waypoint #": "055",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_056",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "10.4",
+        "Time in": "15:15",
+        "Time out": "16:27",
+        "Duration": "1:12",
+        "Waypoint #": "056",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_057",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "30.1",
+        "Time in": "15:23",
+        "Time out": "16:33",
+        "Duration": "1:10",
+        "Waypoint #": "057",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_058",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "11.2",
+        "Time in": "15:32",
+        "Time out": "16:41",
+        "Duration": "1:09",
+        "Waypoint #": "058",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_059",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "20.0",
+        "Time in": "15:37",
+        "Time out": "16:46",
+        "Duration": "1:09",
+        "Waypoint #": "059",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Bait almot gone; Strange broken bait bag",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_060",
+        "Date": "4/6/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "26.1",
+        "Time in": "15:43",
+        "Time out": "15:50",
+        "Duration": "0:07",
+        "Waypoint #": "060",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_061",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "29",
+        "Depth (m)": "9.9",
+        "Time in": "8:00",
+        "Time out": "9:14",
+        "Duration": "1:14",
+        "Waypoint #": "061",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Palengko\"",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "2 Moorays good_1-10:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_062",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "6.9",
+        "Time in": "8:06",
+        "Time out": "9:19",
+        "Duration": "1:13",
+        "Waypoint #": "062",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_063",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "7.5",
+        "Time in": "8:13",
+        "Time out": "9:24",
+        "Duration": "1:11",
+        "Waypoint #": "063",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_064",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "10.4",
+        "Time in": "8:17",
+        "Time out": "9:29",
+        "Duration": "1:12",
+        "Waypoint #": "064",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_065",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "11.9",
+        "Time in": "8:22",
+        "Time out": "9:34",
+        "Duration": "1:12",
+        "Waypoint #": "065",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_066",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "9.1",
+        "Time in": "8:26",
+        "Time out": "9:39",
+        "Duration": "1:13",
+        "Waypoint #": "066",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_067",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "11.4",
+        "Time in": "9:46",
+        "Time out": "10:55",
+        "Duration": "1:09",
+        "Waypoint #": "067",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_068",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "19.6",
+        "Time in": "9:55",
+        "Time out": "10:59",
+        "Duration": "1:04",
+        "Waypoint #": "068",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_069",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "11.7",
+        "Time in": "10:00",
+        "Time out": "11:04",
+        "Duration": "1:04",
+        "Waypoint #": "069",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_070",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "15.1",
+        "Time in": "10:05",
+        "Time out": "11:08",
+        "Duration": "1:03",
+        "Waypoint #": "070",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_071",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "2",
+        "Depth (m)": "20.4",
+        "Time in": "10:10",
+        "Time out": "11:14",
+        "Duration": "1:04",
+        "Waypoint #": "071",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_072",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "15.4",
+        "Time in": "10:15",
+        "Time out": "11:18",
+        "Duration": "1:03",
+        "Waypoint #": "072",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Potasium fisher close",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_073",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "9.4",
+        "Time in": "11:26",
+        "Time out": "12:47",
+        "Duration": "1:21",
+        "Waypoint #": "073",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_074",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "9.4",
+        "Time in": "11:31",
+        "Time out": "12:53",
+        "Duration": "1:22",
+        "Waypoint #": "074",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_075",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "22",
+        "Depth (m)": "12.3",
+        "Time in": "11:35",
+        "Time out": "12:58",
+        "Duration": "1:23",
+        "Waypoint #": "075",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_076",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "12.3",
+        "Time in": "11:38",
+        "Time out": "13:01",
+        "Duration": "1:23",
+        "Waypoint #": "076",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "Bait almost gone",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Blotched ray-1st vid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_077",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "7.5",
+        "Time in": "11:44",
+        "Time out": "13:09",
+        "Duration": "1:25",
+        "Waypoint #": "077",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "Camera off #12",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Short/Batt?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_078",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "22.4",
+        "Time in": "11:51",
+        "Time out": "13:13",
+        "Duration": "1:22",
+        "Waypoint #": "078",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_079",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "24",
+        "Depth (m)": "24.6",
+        "Time in": "13:20",
+        "Time out": "14:26",
+        "Duration": "1:06",
+        "Waypoint #": "079",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": "Kuhlii_3-8:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_080",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "19.2",
+        "Time in": "13:26",
+        "Time out": "14:33",
+        "Duration": "1:07",
+        "Waypoint #": "080",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_081",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "40",
+        "Depth (m)": "21.7",
+        "Time in": "13:32",
+        "Time out": "14:39",
+        "Duration": "1:07",
+        "Waypoint #": "081",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_082",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "14.2",
+        "Time in": "13:38",
+        "Time out": "14:45",
+        "Duration": "1:07",
+        "Waypoint #": "082",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_083",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "23",
+        "Depth (m)": "16.1",
+        "Time in": "13:44",
+        "Time out": "14:51",
+        "Duration": "1:07",
+        "Waypoint #": "083",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_084",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "12.4",
+        "Time in": "13:49",
+        "Time out": "14:57",
+        "Duration": "1:08",
+        "Waypoint #": "084",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_085",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "20",
+        "Depth (m)": "18.7",
+        "Time in": "15:03",
+        "Time out": "16:13",
+        "Duration": "1:10",
+        "Waypoint #": "085",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_086",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "19",
+        "Depth (m)": "14.2",
+        "Time in": "15:09",
+        "Time out": "16:19",
+        "Duration": "1:10",
+        "Waypoint #": "086",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_087",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "33",
+        "Depth (m)": "14.5",
+        "Time in": "15:15",
+        "Time out": "16:26",
+        "Duration": "1:11",
+        "Waypoint #": "087",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_088",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "15.3",
+        "Time in": "15:20",
+        "Time out": "16:32",
+        "Duration": "1:12",
+        "Waypoint #": "088",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_089",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "14.9",
+        "Time in": "15:26",
+        "Time out": "16:38",
+        "Duration": "1:12",
+        "Waypoint #": "089",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "Camera off #3",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_090",
+        "Date": "4/7/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "6",
+        "Depth (m)": "16.4",
+        "Time in": "15:32",
+        "Time out": "16:44",
+        "Duration": "1:12",
+        "Waypoint #": "090",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_091",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "7.7",
+        "Time in": "8:05",
+        "Time out": "9:14",
+        "Duration": "1:09",
+        "Waypoint #": "091",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Taka banyara\"",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_092",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "14.4",
+        "Time in": "8:11",
+        "Time out": "9:17",
+        "Duration": "1:06",
+        "Waypoint #": "092",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_093",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "22.2",
+        "Time in": "8:19",
+        "Time out": "9:21",
+        "Duration": "1:02",
+        "Waypoint #": "093",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_094",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "21.4",
+        "Time in": "8:25",
+        "Time out": "9:27",
+        "Duration": "1:02",
+        "Waypoint #": "094",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_095",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "23.3",
+        "Time in": "8:29",
+        "Time out": "9:32",
+        "Duration": "1:03",
+        "Waypoint #": "095",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "1 turtle sighted",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_096",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "35.9",
+        "Time in": "8:35",
+        "Time out": "9:37",
+        "Duration": "1:02",
+        "Waypoint #": "096",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_097",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "19.0",
+        "Time in": "9:56",
+        "Time out": "11:06",
+        "Duration": "1:10",
+        "Waypoint #": "097",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_098",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "22.6",
+        "Time in": "10:02",
+        "Time out": "11:11",
+        "Duration": "1:09",
+        "Waypoint #": "098",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Tali buang\"",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_099",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "16.0",
+        "Time in": "10:06",
+        "Time out": "11:16",
+        "Duration": "1:10",
+        "Waypoint #": "099",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_100",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "15.9",
+        "Time in": "10:13",
+        "Time out": "11:20",
+        "Duration": "1:07",
+        "Waypoint #": "100",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_101",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "28.5",
+        "Time in": "10:16",
+        "Time out": "11:25",
+        "Duration": "1:09",
+        "Waypoint #": "101",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKW_102",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "West",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "30.5",
+        "Time in": "10:21",
+        "Time out": "11:30",
+        "Duration": "1:09",
+        "Waypoint #": "102",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "22",
+        "Hard-Drive 2": "23",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_001",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "19",
+        "Depth (m)": "12.3",
+        "Time in": "13:31",
+        "Time out": "14:56",
+        "Duration": "1:25",
+        "Waypoint #": "001",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Cam Off; cam #5",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Covered by softcoral; can't see bait bag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_002",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "18.1",
+        "Time in": "13:39",
+        "Time out": "15:02",
+        "Duration": "1:23",
+        "Waypoint #": "002",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_003",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "18.3",
+        "Time in": "13:53",
+        "Time out": "15:07",
+        "Duration": "1:14",
+        "Waypoint #": "003",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Redeploy due to strong current",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_004",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "10",
+        "Depth (m)": "20.1",
+        "Time in": "13:57",
+        "Time out": "15:12",
+        "Duration": "1:15",
+        "Waypoint #": "004",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_005",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "14",
+        "Depth (m)": "23.0",
+        "Time in": "14:04",
+        "Time out": "15:16",
+        "Duration": "1:12",
+        "Waypoint #": "005",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mooray_4-0:10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_006",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "27",
+        "Depth (m)": "8.3",
+        "Time in": "14:11",
+        "Time out": "15:21",
+        "Duration": "1:10",
+        "Waypoint #": "006",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Cam Off; cam #3",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "2 Mooray_0-10:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_007",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "21",
+        "Depth (m)": "11.8",
+        "Time in": "15:27",
+        "Time out": "16:30",
+        "Duration": "1:03",
+        "Waypoint #": "007",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Faced up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_008",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "25.8",
+        "Time in": "15:31",
+        "Time out": "16:34",
+        "Duration": "1:03",
+        "Waypoint #": "008",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Cam Off; cam #11",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_009",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "22",
+        "Depth (m)": "15.5",
+        "Time in": "15:35",
+        "Time out": "16:39",
+        "Duration": "1:04",
+        "Waypoint #": "009",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_010",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "13",
+        "Depth (m)": "9.5",
+        "Time in": "15:38",
+        "Time out": "16:43",
+        "Duration": "1:05",
+        "Waypoint #": "010",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_011",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "15",
+        "Depth (m)": "11.7",
+        "Time in": "15:42",
+        "Time out": "16:47",
+        "Duration": "1:05",
+        "Waypoint #": "011",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_012",
+        "Date": "4/8/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "26",
+        "Depth (m)": "13.8",
+        "Time in": "15:46",
+        "Time out": "16:49",
+        "Duration": "1:03",
+        "Waypoint #": "012",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_013",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "21.9",
+        "Time in": "12:34",
+        "Time out": "13:54",
+        "Duration": "1:20",
+        "Waypoint #": "013",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_014",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "32",
+        "Depth (m)": "25.9",
+        "Time in": "12:40",
+        "Time out": "13:58",
+        "Duration": "1:18",
+        "Waypoint #": "014",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Upside down due to current"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_015",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "16.4",
+        "Time in": "12:46",
+        "Time out": "14:04",
+        "Duration": "1:18",
+        "Waypoint #": "015",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_016",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "33",
+        "Depth (m)": "15.0",
+        "Time in": "12:50",
+        "Time out": "14:08",
+        "Duration": "1:18",
+        "Waypoint #": "016",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_017",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "24",
+        "Depth (m)": "12.5",
+        "Time in": "13:13",
+        "Time out": "14:21",
+        "Duration": "1:08",
+        "Waypoint #": "017",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Kuhlii_0-8:21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_018",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "5",
+        "Depth (m)": "26.0",
+        "Time in": "13:06",
+        "Time out": "14:13",
+        "Duration": "1:07",
+        "Waypoint #": "018",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_019",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "18.9",
+        "Time in": "14:28",
+        "Time out": "15:36",
+        "Duration": "1:08",
+        "Waypoint #": "019",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_020",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "16.6",
+        "Time in": "14:33",
+        "Time out": "15:41",
+        "Duration": "1:08",
+        "Waypoint #": "020",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_021",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "9.9",
+        "Time in": "14:37",
+        "Time out": "15:46",
+        "Duration": "1:09",
+        "Waypoint #": "021",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_022",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "18.3",
+        "Time in": "14:42",
+        "Time out": "15:52",
+        "Duration": "1:10",
+        "Waypoint #": "022",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Broken bait bag",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_023",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "30.0",
+        "Time in": "14:47",
+        "Time out": "15:57",
+        "Duration": "1:10",
+        "Waypoint #": "023",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_024",
+        "Date": "4/9/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "15.3",
+        "Time in": "14:52",
+        "Time out": "16:03",
+        "Duration": "1:11",
+        "Waypoint #": "024",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Good turtle footage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_025",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "17.4",
+        "Time in": "9:11",
+        "Time out": "10:30",
+        "Duration": "1:19",
+        "Waypoint #": "025",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "Outside the MPA of Kapoposang Island; \"Tuara Island",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_026",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "8.4",
+        "Time in": "9:19",
+        "Time out": "10:36",
+        "Duration": "1:17",
+        "Waypoint #": "026",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_027",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "39.1",
+        "Time in": "9:31",
+        "Time out": "10:42",
+        "Duration": "1:11",
+        "Waypoint #": "027",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Blotched ray-4th vid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_028",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "8.7",
+        "Time in": "9:37",
+        "Time out": "10:49",
+        "Duration": "1:12",
+        "Waypoint #": "028",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_029",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "21",
+        "Depth (m)": "8.3",
+        "Time in": "9:43",
+        "Time out": "10:56",
+        "Duration": "1:13",
+        "Waypoint #": "029",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mooray_1-11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_030",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "9.1",
+        "Time in": "9:54",
+        "Time out": "11:03",
+        "Duration": "1:09",
+        "Waypoint #": "030",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_031",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "11.3",
+        "Time in": "11:09",
+        "Time out": "12:21",
+        "Duration": "1:12",
+        "Waypoint #": "031",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_032",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "8.4",
+        "Time in": "11:16",
+        "Time out": "12:27",
+        "Duration": "1:11",
+        "Waypoint #": "032",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_033",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "10.3",
+        "Time in": "11:21",
+        "Time out": "12:32",
+        "Duration": "1:11",
+        "Waypoint #": "033",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_034",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "11.3",
+        "Time in": "11:29",
+        "Time out": "12:38",
+        "Duration": "1:09",
+        "Waypoint #": "034",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_035",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "6",
+        "Depth (m)": "14.0",
+        "Time in": "11:33",
+        "Time out": "12:42",
+        "Duration": "1:09",
+        "Waypoint #": "035",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "Cam off; cam#5",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_036",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "2",
+        "Depth (m)": "22.3",
+        "Time in": "11:42",
+        "Time out": "12:48",
+        "Duration": "1:06",
+        "Waypoint #": "036",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "Strange broken bait bag; SD#2",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Nurse shark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_037",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "21.2",
+        "Time in": "12:55",
+        "Time out": "14:16",
+        "Duration": "1:21",
+        "Waypoint #": "037",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_038",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "11.9",
+        "Time in": "12:59",
+        "Time out": "14:08",
+        "Duration": "1:09",
+        "Waypoint #": "038",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_039",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "16.5",
+        "Time in": "13:04",
+        "Time out": "14:25",
+        "Duration": "1:21",
+        "Waypoint #": "039",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "a lot of fishers",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_040",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "29",
+        "Depth (m)": "15.5",
+        "Time in": "13:09",
+        "Time out": "14:30",
+        "Duration": "1:21",
+        "Waypoint #": "040",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Cam Off; cam #7",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Kuhlii_1-0:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_041",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "19.6",
+        "Time in": "13:14",
+        "Time out": "14:35",
+        "Duration": "1:21",
+        "Waypoint #": "041",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_042",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "34",
+        "Depth (m)": "32.7",
+        "Time in": "13:19",
+        "Time out": "14:41",
+        "Duration": "1:22",
+        "Waypoint #": "042",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_043",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "5",
+        "Depth (m)": "4.0",
+        "Time in": "14:50",
+        "Time out": "15:57",
+        "Duration": "1:07",
+        "Waypoint #": "043",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_044",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "12",
+        "Depth (m)": "12.2",
+        "Time in": "14:55",
+        "Time out": "16:01",
+        "Duration": "1:06",
+        "Waypoint #": "044",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_045",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "26",
+        "Depth (m)": "12.4",
+        "Time in": "14:59",
+        "Time out": "16:07",
+        "Duration": "1:08",
+        "Waypoint #": "045",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "Cam Off; cam #9",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Kuhlii_0-5:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_046",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "16.6",
+        "Time in": "15:04",
+        "Time out": "16:12",
+        "Duration": "1:08",
+        "Waypoint #": "046",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_047",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "35.0",
+        "Time in": "15:10",
+        "Time out": "16:19",
+        "Duration": "1:09",
+        "Waypoint #": "047",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Rolled over; facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_048",
+        "Date": "4/10/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "19",
+        "Depth (m)": "15.3",
+        "Time in": "15:17",
+        "Time out": "16:25",
+        "Duration": "1:08",
+        "Waypoint #": "048",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "M",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_049",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "14",
+        "Depth (m)": "9.8",
+        "Time in": "8:48",
+        "Time out": "9:56",
+        "Duration": "1:08",
+        "Waypoint #": "049",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "\"Suranti Island\"; Protected zone",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "2 Mooray_2-00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_050",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "11.6",
+        "Time in": "8:54",
+        "Time out": "10:02",
+        "Duration": "1:08",
+        "Waypoint #": "050",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "Protected zone",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mooray_3-00; kuhlii_3-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_051",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "12.0",
+        "Time in": "9:00",
+        "Time out": "10:08",
+        "Duration": "1:08",
+        "Waypoint #": "051",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Felt down due to current"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_052",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "14.3",
+        "Time in": "9:04",
+        "Time out": "10:13",
+        "Duration": "1:09",
+        "Waypoint #": "052",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Pulled over"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_053",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "13.4",
+        "Time in": "9:13",
+        "Time out": "10:21",
+        "Duration": "1:08",
+        "Waypoint #": "053",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Can't see bait bag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_054",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "21.4",
+        "Time in": "9:19",
+        "Time out": "10:26",
+        "Duration": "1:07",
+        "Waypoint #": "054",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Cloudy",
+        "Comments": "A lot of fishers",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_055",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "15.9",
+        "Time in": "10:34",
+        "Time out": "11:49",
+        "Duration": "1:15",
+        "Waypoint #": "055",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_056",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "5.2",
+        "Time in": "10:46",
+        "Time out": "11:55",
+        "Duration": "1:09",
+        "Waypoint #": "056",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Protected zone; re-drop same point",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_057",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "6.5",
+        "Time in": "10:53",
+        "Time out": "11:59",
+        "Duration": "1:06",
+        "Waypoint #": "057",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Protected zone",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_058",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "9.2",
+        "Time in": "10:58",
+        "Time out": "12:02",
+        "Duration": "1:04",
+        "Waypoint #": "058",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Protected zone",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_059",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "19.4",
+        "Time in": "11:04",
+        "Time out": "12:06",
+        "Duration": "1:02",
+        "Waypoint #": "059",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Protected zone",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Mooray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_060",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "19.9",
+        "Time in": "11:13",
+        "Time out": "12:21",
+        "Duration": "1:08",
+        "Waypoint #": "060",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Protected zone",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_061",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "13.7",
+        "Time in": "12:34",
+        "Time out": "13:46",
+        "Duration": "1:12",
+        "Waypoint #": "061",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "\"Pemanggangan Island\"; broken bait bag",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_062",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "35.4",
+        "Time in": "12:39",
+        "Time out": "13:50",
+        "Duration": "1:11",
+        "Waypoint #": "062",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_063",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "22",
+        "Depth (m)": "23.1",
+        "Time in": "12:44",
+        "Time out": "13:56",
+        "Duration": "1:12",
+        "Waypoint #": "063",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_064",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "14.4",
+        "Time in": "12:48",
+        "Time out": "14:01",
+        "Duration": "1:13",
+        "Waypoint #": "064",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Cam off; flooded no O ring housing cam #14",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Flooded"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_065",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "16.4",
+        "Time in": "12:54",
+        "Time out": "14:06",
+        "Duration": "1:12",
+        "Waypoint #": "065",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_066",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "8.3",
+        "Time in": "12:58",
+        "Time out": "14:11",
+        "Duration": "1:13",
+        "Waypoint #": "066",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Cam Off; cam #7",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Cam-off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_067",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "27",
+        "Depth (m)": "14.3",
+        "Time in": "14:17",
+        "Time out": "15:24",
+        "Duration": "1:07",
+        "Waypoint #": "067",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_068",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "31",
+        "Depth (m)": "14.5",
+        "Time in": "14:23",
+        "Time out": "15:28",
+        "Duration": "1:05",
+        "Waypoint #": "068",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Kuhliii_2-7:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_069",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "14.1",
+        "Time in": "14:29",
+        "Time out": "15:33",
+        "Duration": "1:04",
+        "Waypoint #": "069",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_070",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "8.1",
+        "Time in": "14:35",
+        "Time out": "15:39",
+        "Duration": "1:04",
+        "Waypoint #": "070",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_071",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "14.2",
+        "Time in": "14:40",
+        "Time out": "15:44",
+        "Duration": "1:04",
+        "Waypoint #": "071",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_072",
+        "Date": "4/11/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "16.5",
+        "Time in": "14:46",
+        "Time out": "15:51",
+        "Duration": "1:05",
+        "Waypoint #": "072",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_073",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "18.2",
+        "Time in": "8:31",
+        "Time out": "9:47",
+        "Duration": "1:16",
+        "Waypoint #": "073",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "\"Pemanggangan Island\"",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_074",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "14.5",
+        "Time in": "8:44",
+        "Time out": "9:53",
+        "Duration": "1:09",
+        "Waypoint #": "074",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_075",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "20.1",
+        "Time in": "8:47",
+        "Time out": "9:58",
+        "Duration": "1:11",
+        "Waypoint #": "075",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_076",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "19.3",
+        "Time in": "8:52",
+        "Time out": "10:05",
+        "Duration": "1:13",
+        "Waypoint #": "076",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_077",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "12.0",
+        "Time in": "8:58",
+        "Time out": "10:10",
+        "Duration": "1:12",
+        "Waypoint #": "077",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_078",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "12.1",
+        "Time in": "9:03",
+        "Time out": "10:21",
+        "Duration": "1:18",
+        "Waypoint #": "078",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_079",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "13.7",
+        "Time in": "10:29",
+        "Time out": "11:41",
+        "Duration": "1:12",
+        "Waypoint #": "079",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_080",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "15.7",
+        "Time in": "10:37",
+        "Time out": "11:45",
+        "Duration": "1:08",
+        "Waypoint #": "080",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_081",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "14.3",
+        "Time in": "10:41",
+        "Time out": "11:50",
+        "Duration": "1:09",
+        "Waypoint #": "081",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_082",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "39.6",
+        "Time in": "10:47",
+        "Time out": "11:55",
+        "Duration": "1:08",
+        "Waypoint #": "082",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_083",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "15.1",
+        "Time in": "10:53",
+        "Time out": "12:02",
+        "Duration": "1:09",
+        "Waypoint #": "083",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_084",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "14.5",
+        "Time in": "10:57",
+        "Time out": "12:09",
+        "Duration": "1:12",
+        "Waypoint #": "084",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "Strange broken bait bag",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_085",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "25.6",
+        "Time in": "12:18",
+        "Time out": "13:37",
+        "Duration": "1:19",
+        "Waypoint #": "085",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": "Facing up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_086",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "9.2",
+        "Time in": "12:22",
+        "Time out": "13:43",
+        "Duration": "1:21",
+        "Waypoint #": "086",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_087",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "15.9",
+        "Time in": "12:27",
+        "Time out": "13:48",
+        "Duration": "1:21",
+        "Waypoint #": "087",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_088",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "6.9",
+        "Time in": "12:32",
+        "Time out": "13:53",
+        "Duration": "1:21",
+        "Waypoint #": "088",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_089",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "23.6",
+        "Time in": "12:39",
+        "Time out": "13:57",
+        "Duration": "1:18",
+        "Waypoint #": "089",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_090",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "16.4",
+        "Time in": "12:48",
+        "Time out": "14:05",
+        "Duration": "1:17",
+        "Waypoint #": "090",
+        "": "",
+        "Viz: L, M, H": "H",
+        "Current: L, M, H": "M",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_091",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "5",
+        "Camera": "5",
+        "SD Card": "",
+        "Depth (m)": "17.4",
+        "Time in": "14:11",
+        "Time out": "15:24",
+        "Duration": "1:13",
+        "Waypoint #": "091",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_092",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "3",
+        "Camera": "3",
+        "SD Card": "",
+        "Depth (m)": "13.5",
+        "Time in": "14:18",
+        "Time out": "15:30",
+        "Duration": "1:12",
+        "Waypoint #": "092",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_093",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "6",
+        "Camera": "6",
+        "SD Card": "",
+        "Depth (m)": "21.0",
+        "Time in": "14:23",
+        "Time out": "15:35",
+        "Duration": "1:12",
+        "Waypoint #": "093",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_094",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "4",
+        "Camera": "4",
+        "SD Card": "",
+        "Depth (m)": "16.6",
+        "Time in": "14:30",
+        "Time out": "15:40",
+        "Duration": "1:10",
+        "Waypoint #": "094",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_095",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "1",
+        "Camera": "1",
+        "SD Card": "",
+        "Depth (m)": "35.5",
+        "Time in": "14:34",
+        "Time out": "15:45",
+        "Duration": "1:11",
+        "Waypoint #": "095",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": "",
+        "Comment 2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OPCODE": "FP_IDKE_096",
+        "Date": "4/12/2016",
+        "Country": "Indonesia",
+        "Location": "Kapoposang",
+        "Site": "East",
+        "BRUV": "2",
+        "Camera": "2",
+        "SD Card": "",
+        "Depth (m)": "30.8",
+        "Time in": "14:43",
+        "Time out": "15:51",
+        "Duration": "1:08",
+        "Waypoint #": "096",
+        "": "",
+        "Viz: L, M, H": "M",
+        "Current: L, M, H": "L",
+        "Weather": "Sunny",
+        "Comments": "",
+        "Hard-Drive 1": "24",
+        "Hard-Drive 2": "25",
+        "Hard-Drive 3": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119,
+          4
+        ]
+      }
+    }
+  ]
+}

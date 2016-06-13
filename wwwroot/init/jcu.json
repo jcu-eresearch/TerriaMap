@@ -1,0 +1,139 @@
+{
+  "initialCamera": {
+    "north": -8,
+    "east": 158,
+    "south": -45,
+    "west": 109
+
+            },
+
+            "corsDomains" : [
+                "corsproxy.com",
+                "programs.communications.gov.au",
+                "cdn.rawgit.com",
+                "github.com"
+            ],
+
+
+  "catalog": [
+    {
+      "name": "JCU Marine Data",
+      "type": "group",
+      "items": [
+
+        {
+          "name": "JC15 Coral Traits",
+          "type": "group",
+          "items": [
+            {
+              "name": "JC15-Coral Traits Database (GeoJSON)",
+              "type": "geojson",
+              "url": "test/jc15-coraltraits-small.geojson",
+              "initialMessage": {
+                "title": "CoralTraits",
+                "content": "",
+                "key": ""
+              }
+            }
+          ],
+          "isOpen": true
+        },
+        {
+          "name": "JC10 BRUVS",
+          "type": "group",
+          "items": [
+            {
+              "name": "Malaysia (GeoJSON)",
+              "type": "geojson",
+              "url": "test/bruvs-malaysia.geojson",
+              "initialMessage": {
+                "title": "JC10 BRUVS Malaysia",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Indonesia Kapoposang (GeoJSON)",
+              "type": "geojson",
+              "url": "test/bruvs-indonesia-kapoposang.geojson",
+              "initialMessage": {
+                "title": "JC10 BRUVS Indonesia",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Indonesia Nusapenida (GeoJSON)",
+              "type": "geojson",
+              "url": "test/bruvs-indonesia-nusapenida.geojson",
+              "initialMessage": {
+                "title": "JC10 BRUVS Indonesia",
+                "content": "",
+                "key": ""
+              }
+            }
+          ],
+          "isOpen": false
+        },
+        {
+          "name": "JC12 MangroveWatch",
+          "type": "group",
+          "items": [
+            {
+              "name": "Iama Island Mangrove Imagery Locations (GeoJSON)",
+              "type": "geojson",
+              "url": "test/jc12-mangrovewatch/iama.geojson",
+              "initialMessage": {
+                "title": "JC12 MangroveWatch",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Brisbane River Left Hand Side 2011 (GeoJSON)",
+              "type": "geojson",
+              "url": "https://cdn.rawgit.com/jcu-eresearch/RDS-Marine-Services/master/datasets/JC12-Mangrovewatch/geojson/brisbane-river-lhs.geojson",
+              "initialMessage": {
+                "title": "JC12-Mangrovewatch",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Sassie Island Torres Strait (GeoJSON)",
+              "type": "geojson",
+              "url": "test/jc12-mangrovewatch/sassie.geojson",
+              "initialMessage": {
+                "title": "JC12-Mangrovewatch",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Tingalpa Creek (GeoJSON)",
+              "type": "geojson",
+              "url": "test/jc12-mangrovewatch/tingalpa-creek.geojson",
+              "initialMessage": {
+                "title": "JC12-Mangrovewatch",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Brisbane River Right Hand Side 2001 (GeoJSON)",
+              "type": "geojson",
+              "url": "test/jc12-mangrovewatch/brisbane-river-rhs.geojson",
+              "initialMessage": {
+                "title": "JC12-Mangrovewatch",
+                "content": "",
+                "key": ""
+              }
+            }
+          ],
+          "isOpen": false
+        }
+      ],
+      "isOpen": true
+    }
+  ]
+}

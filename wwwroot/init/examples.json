@@ -1,0 +1,213 @@
+{
+  "catalog": [
+    {
+      "isOpen": false,
+      "items": [
+        {
+          "items": [
+            {
+              "abstract": "Chlorophyll-a, reflecting wavelengths in the green part of the visible light spectrum, is the substance that helps plants capture the sun’s energy. In the water, it indicates the presence of microscopic green algae (phytoplankton). While these plants are a natural part of the reef ecosystem, elevated numbers (a bloom) of phytoplankton signal elevated nutrient levels, especially nitrogen, in the water. Typical sources are runoff from excess fertiliser being applied to crops and, to a lesser extent in the Great Barrier Reef region, sewage contamination from urban areas.",
+              "description": "...",
+              "getFeatureInfoAsGeoJson": false,
+              "layers": "Chl_MIM_mean",
+              "name": "Chlorophyll-a concentration (monthly)",
+              "parameters": {
+                "ABOVEMAXCOLOR": "0xAF324B",
+                "BELOWMINCOLOR": "transparent",
+                "COLORSCALERANGE": "0,1",
+                "FORMAT": "image/png",
+                "LOGSCALE": "false",
+                "NUMCOLORBANDS": "16",
+                "PALETTE": "mwq_chl",
+                "STYLES": "boxfill/mwq_chl",
+                "TRANSPARENT": "true",
+                "VERSION": "1.1.1"
+              },
+              "type": "wms",
+              "url": "http://ereeftds.bom.gov.au/ereefs/tds/wms/ereefs/mwq_gridAgg_P1M"
+            }
+          ],
+          "name": "Temporal",
+          "type": "group"
+        },
+        {
+          "items": [
+            {
+              "name": "SEIFA 2011 (POA)",
+              "tableStyle": {
+                "colorMap": [
+                  {
+                    "color": "rgba(0,0,0,1.00)",
+                    "offset": 0
+                  },
+                  {
+                    "color": "rgba(0,200,0,1.0)",
+                    "offset": 1
+                  }
+                ],
+                "dataVariable": "Socio-economic_Disadvantage",
+                "regionType": "POA",
+                "regionVariable": "POA_CODE"
+              },
+              "type": "csv",
+              "url": "test/SEIFA_POA_2011.csv"
+            },
+            {
+              "name": "NEXIS NSW 2012 (LGA)",
+              "type": "csv",
+              "url": "test/NSW_LGA_NEXIS_201212.csv"
+            },
+            {
+              "name": "2011 Census AUST (STE)",
+              "type": "csv",
+              "url": "test/2011Census_AUST_STE.csv"
+            },
+            {
+              "name": "2011 Census AUST (CED)",
+              "type": "csv",
+              "url": "test/2011Census_AUST_CED.csv"
+            },
+            {
+              "name": "2011 Census AUST (SA4)",
+              "type": "csv",
+              "url": "test/2011Census_AUST_SA4.csv"
+            },
+            {
+              "name": "States STEM 2013",
+              "type": "csv",
+              "url": "test/states_stem_2013.csv"
+            },
+            {
+              "name": "Country Regions",
+              "tableStyle": {
+                "dataVariable": "ITU-T Telephone Code"
+              },
+              "type": "csv",
+              "url": "test/countries.csv"
+            },
+            {
+              "name": "Droughts by Country",
+              "tableStyle": {
+                "dataVariable": "Total affected",
+                "displayDuration": 525600,
+                "featureInfoFields": {
+                  "Country name": "Country",
+                  "Total damage": "Cost",
+                  "Total deaths": "Deaths",
+                  "date": "Date"
+                }
+              },
+              "type": "csv",
+              "url": "test/droughts.csv"
+            },
+            {
+              "keepOnTop": true,
+              "name": "State Mask Test",
+              "opacity": 1,
+              "tableStyle": {
+                "colorMap": [
+                  {
+                    "color": "rgba(0,0,0,0.0)",
+                    "offset": 0
+                  },
+                  {
+                    "color": "rgba(0,0,0,1.0)",
+                    "offset": 1
+                  }
+                ],
+                "dataVariable": "Mask"
+              },
+              "type": "csv",
+              "url": "test/states_stem_2013.csv"
+            }
+          ],
+          "name": "Region mapping (CSV)",
+          "type": "group"
+        },
+        {
+          "items": [
+            {
+              "name": "Simple Test (KML)",
+              "type": "kml",
+              "url": "test/simple.kml"
+            }
+          ],
+          "name": "KML/KMZ files",
+          "type": "group"
+        },
+        {
+          "items": [
+            {
+              "name": "Simple Test (CZML)",
+              "type": "czml",
+              "url": "test/simple.czml"
+            },
+            {
+              "name": "Large feature info box (CZML)",
+              "type": "czml",
+              "url": "test/bigInfobox.czml"
+            },
+            {
+              "data": [
+                {
+                  "id": "document",
+                  "version": "1.0"
+                },
+                {
+                  "point": {
+                    "color": {
+                      "rgba": [
+                        255,
+                        0,
+                        0,
+                        255
+                      ]
+                    },
+                    "pixelSize": 5
+                  },
+                  "position": {
+                    "cartographicDegrees": [
+                      133,
+                      -25,
+                      0
+                    ]
+                  }
+                }
+              ],
+              "name": "Embedded CZML",
+              "type": "czml"
+            }
+          ],
+          "name": "CZML files",
+          "type": "group"
+        },
+        {
+          "isOpen": true,
+          "items": [
+            {
+              "name": "Ferry Routes (GeoJSON via WFS)",
+              "type": "wfs",
+              "typeNames": "topography_Australian_Topography:Ferry_Routes",
+              "url": "http://www.ga.gov.au/gis/services/topography/Australian_Topography/MapServer/WFSServer"
+            },
+            {
+              "name": "Airports (OGR->GeoJSON, zipped)",
+              "type": "ogr",
+              "url": "test/airports.zip"
+            }
+          ],
+          "name": "GeoJSON files",
+          "type": "group"
+        }
+      ],
+      "name": "JCU Examples Data",
+      "type": "group"
+    }
+  ],
+  "initialCamera": {
+    "east": 158,
+    "north": -8,
+    "south": -45,
+    "west": 109
+  }
+}
