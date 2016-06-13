@@ -16,6 +16,7 @@
         "rdsi-geo1.hpc.jcu.edu.au",
         "nci.org.au",
         "static.nationalmap.nicta.com.au",
+        "cdn.rawgit.com",
         "githubusercontent.com"
     ],
     "initPaths": [
