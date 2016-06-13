@@ -9,7 +9,9 @@
 
             "corsDomains" : [
                 "corsproxy.com",
-                "programs.communications.gov.au"
+                "programs.communications.gov.au",
+                "cdn.rawgit.com",
+                "github.com"
             ],
 
 
@@ -98,11 +100,31 @@
               }
             },
             {
-              "name": "Indonesia Nusapenida (GeoJSON)",
+              "name": "Sassie Island Torres Strait (GeoJSON)",
               "type": "geojson",
-              "url": "test/bruvs-indonesia-nusapenida.geojson",
+              "url": "test/jc12-mangrovewatch/sassie.geojson",
               "initialMessage": {
-                "title": "JC10 BRUVS Indonesia",
+                "title": "JC12-Mangrovewatch",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Tingalpa Creek (GeoJSON)",
+              "type": "geojson",
+              "url": "test/jc12-mangrovewatch/tingalpa-creek.geojson",
+              "initialMessage": {
+                "title": "JC12-Mangrovewatch",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Brisbane River Right Hand Side 2001 (GeoJSON)",
+              "type": "geojson",
+              "url": "test/jc12-mangrovewatch/brisbane-river-rhs.geojson",
+              "initialMessage": {
+                "title": "JC12-Mangrovewatch",
                 "content": "",
                 "key": ""
               }

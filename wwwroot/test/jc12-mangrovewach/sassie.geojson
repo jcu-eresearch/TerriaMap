@@ -1,0 +1,1759 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1001",
+        "Notes": "Avicennia",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82673,
+          -10.0287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1412",
+        "Notes": "Avicennia",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83028,
+          -10.03303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3359",
+        "Notes": "Avicennia",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86295,
+          -10.04607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3618",
+        "Notes": "Avicennia & Rhizophora",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86868,
+          -10.04386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1212",
+        "Notes": "Beach behind mangroves",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82777,
+          -10.03102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2545",
+        "Notes": "Beach erosion",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84924,
+          -10.04858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2591",
+        "Notes": "Beach Erosion",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85023,
+          -10.04921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2696",
+        "Notes": "Beach Erosion",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8525,
+          -10.05074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2859",
+        "Notes": "Beach erosion",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85603,
+          -10.05277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "763",
+        "Notes": "Beach landing",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82683,
+          -10.02541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3629",
+        "Notes": "Big log",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86884,
+          -10.04364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1743",
+        "Notes": "Big log",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83628,
+          -10.03677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2855",
+        "Notes": "Biodiversity survey location",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85594,
+          -10.05273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "4805",
+        "Notes": "BP, RA ~15m tall",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83676,
+          -10.01936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1005",
+        "Notes": "BP, Rhizophora, Xylocarpus",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82674,
+          -10.02876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1943",
+        "Notes": "Buoy",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83777,
+          -10.03759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "905",
+        "Notes": "Cats?",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82646,
+          -10.02726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1956",
+        "Notes": "Ceriops & Rhizophora forest",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83806,
+          -10.03776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "506",
+        "Notes": "Ceriops, BP, BG, Xylocarpus, Osbornia, Pemphis, RS",
+        "": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82791,
+          -10.02256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2980",
+        "Notes": "Channel",
+        "": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85881,
+          -10.05345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "4431",
+        "Notes": "Channel",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85879,
+          -10.02573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2693",
+        "Notes": "Coral Beach",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85243,
+          -10.05069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2804",
+        "Notes": "Coral Beach",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8548,
+          -10.05217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "4666",
+        "Notes": "Coral Platform",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85895,
+          -10.0196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1220",
+        "Notes": "Creek",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82787,
+          -10.03112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2402",
+        "Notes": "Crocodile",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84645,
+          -10.04612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "595",
+        "Notes": "Crocodile (1m)",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82699,
+          -10.02327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "750",
+        "Notes": "Crocodile (2m)",
+        "": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82678,
+          -10.02528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2865",
+        "Notes": "Crocodile (3m)",
+        "": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85617,
+          -10.05284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2553",
+        "Notes": "Crocodile (large)",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84942,
+          -10.0487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "824",
+        "Notes": "Crocodile Nest",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82663,
+          -10.02614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1621",
+        "Notes": "Crocodile Nest",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8338,
+          -10.0353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2409",
+        "Notes": "Crocodile Nest",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84658,
+          -10.04626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2698",
+        "Notes": "Crocodile Nest",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85253,
+          -10.05078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2880",
+        "Notes": "Crocodile Nest",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85648,
+          -10.05305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "872",
+        "Notes": "Dead terrestrial canopy",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82651,
+          -10.02675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2456",
+        "Notes": "Debris",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84746,
+          -10.04719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3403",
+        "Notes": "Debris",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86396,
+          -10.04568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "54",
+        "Notes": "Disturbance maybe from a big storm 10 years ago, or earlier",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83287,
+          -10.01949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "170",
+        "Notes": "Eagle",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83148,
+          -10.02037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1549",
+        "Notes": "Eagle Nest",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83238,
+          -10.03453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1986",
+        "Notes": "Erosion",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83878,
+          -10.03808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "117",
+        "Notes": "Erosion, exposure - drop roots",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83218,
+          -10.02002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1433",
+        "Notes": "Excoecaria, BG, XM, AM, RS, PA, OO",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83057,
+          -10.03322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "903",
+        "Notes": "Exposed Beach with Wongai Trees",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82645,
+          -10.02723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "881",
+        "Notes": "Fishing Line",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82649,
+          -10.02686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "68",
+        "Notes": "Gap in the forest",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83277,
+          -10.01966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "29",
+        "Notes": "Ghost Net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83278,
+          -10.01918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "770",
+        "Notes": "Ghost Net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82681,
+          -10.02549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "797",
+        "Notes": "Ghost Net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82671,
+          -10.02581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "847",
+        "Notes": "Ghost Net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82655,
+          -10.02642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "960",
+        "Notes": "Ghost Net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82658,
+          -10.02809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1276",
+        "Notes": "Ghost Net",
+        "": "#NAME?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82854,
+          -10.03174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1391",
+        "Notes": "Ghost Net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82997,
+          -10.03289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1981",
+        "Notes": "Ghost net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83867,
+          -10.03803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2542",
+        "Notes": "Ghost Net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84916,
+          -10.04855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2614",
+        "Notes": "Ghost Net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85069,
+          -10.04957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2702",
+        "Notes": "Ghost Net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85261,
+          -10.05084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2767",
+        "Notes": "Ghost Net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85409,
+          -10.05159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3122",
+        "Notes": "Ghost Net",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86018,
+          -10.04977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "505",
+        "Notes": "High diversity",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82792,
+          -10.02256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "370",
+        "Notes": "High diversity - Osbornia, Bruguiera, Rhizophora, Ceriops, Avicennia",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82932,
+          -10.0212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1434",
+        "Notes": "High Diversity Site",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83058,
+          -10.03324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "267",
+        "Notes": "High wave exposure",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83026,
+          -10.02037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1782",
+        "Notes": "Inlet",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83717,
+          -10.03649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1807",
+        "Notes": "Large Osbornia trees",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83744,
+          -10.03592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1020",
+        "Notes": "Low hedge of Aegialitis",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82671,
+          -10.02898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3255",
+        "Notes": "Mangrove dieback",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86062,
+          -10.04679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3342",
+        "Notes": "Mangrove dieback",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86257,
+          -10.04625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3382",
+        "Notes": "Mangrove Dieback",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86349,
+          -10.04591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1486",
+        "Notes": "Mangrove Dieback in mature mid-zone forest",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83129,
+          -10.03381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3997",
+        "Notes": "Mangrove Dieback in young Avicennia",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86662,
+          -10.03493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2814",
+        "Notes": "Mangrove expansion",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85498,
+          -10.05233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3239",
+        "Notes": "Mangrove expansion",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86036,
+          -10.04708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3484",
+        "Notes": "Mangrove expansion",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86579,
+          -10.04509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1684",
+        "Notes": "Osbornia",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83512,
+          -10.03598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "4411",
+        "Notes": "Osbornia & Rhizophora",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8588,
+          -10.02629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2713",
+        "Notes": "Osbornia 5m Tall",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85282,
+          -10.05104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2875",
+        "Notes": "Oystercatchers",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85639,
+          -10.05297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1581",
+        "Notes": "Pandanus (kosam), terrestrial zone",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83298,
+          -10.03489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "4775",
+        "Notes": "Pemphis",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83592,
+          -10.01922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "611",
+        "Notes": "Pemphis 6m",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82688,
+          -10.0235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "323",
+        "Notes": "Pemphis, Osbornia",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82959,
+          -10.02054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2382",
+        "Notes": "R. stylosa fringe, with R. apiculata as dominant canopy",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84606,
+          -10.04572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2309",
+        "Notes": "Rainbow Bee-eaters",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84491,
+          -10.044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1687",
+        "Notes": "Rhizophora & Bruguiera",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83517,
+          -10.03603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1816",
+        "Notes": "Rhizophora apiculata",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83748,
+          -10.03577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "885",
+        "Notes": "Rope",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82648,
+          -10.02692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "994",
+        "Notes": "Rope",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82671,
+          -10.02859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1268",
+        "Notes": "Rope",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82841,
+          -10.03169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1599",
+        "Notes": "Sandy Beach",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83334,
+          -10.0351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1945",
+        "Notes": "Sandy Beach",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83781,
+          -10.03761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2427",
+        "Notes": "Sandy Beach with Wongai trees",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84694,
+          -10.04661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "806",
+        "Notes": "Seagull Roost",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82668,
+          -10.02592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "4320",
+        "Notes": "Sharks",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85969,
+          -10.02859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2529",
+        "Notes": "Shorebird Roost",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84884,
+          -10.04849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2600",
+        "Notes": "Shorebird Roost",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85043,
+          -10.04932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2850",
+        "Notes": "Shorebird Roost",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85581,
+          -10.05269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2433",
+        "Notes": "Shorebird roost (100's of birds)",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84707,
+          -10.04671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1628",
+        "Notes": "Shorebird Roost (Godwits)",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83396,
+          -10.03538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "2755",
+        "Notes": "Small Inlet",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85382,
+          -10.05148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "315",
+        "Notes": "Small tidal inlet",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82969,
+          -10.02048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "40",
+        "Notes": "Sonneratia",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83283,
+          -10.01932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "4442",
+        "Notes": "Sonneratia",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85881,
+          -10.02542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3054",
+        "Notes": "Sonneratia alba",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85961,
+          -10.05148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3204",
+        "Notes": "Sonneratia dieback",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85988,
+          -10.0478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1487",
+        "Notes": "Storm Damage",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8313,
+          -10.03383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1686",
+        "Notes": "Tall Mangroves ~20m",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83516,
+          -10.03601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "520",
+        "Notes": "Terrestrial at back",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82773,
+          -10.02256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1685",
+        "Notes": "Terrestrial berm",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83514,
+          -10.036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "765",
+        "Notes": "Terrestrial Trees",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82683,
+          -10.02544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "530",
+        "Notes": "Torres Pigeon",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82758,
+          -10.02256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "964",
+        "Notes": "Turtle Tracks",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8266,
+          -10.02815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "3688",
+        "Notes": "Very healthy mangroves",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86947,
+          -10.04232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "4658",
+        "Notes": "Wave action starts",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85907,
+          -10.01971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1949",
+        "Notes": "White-flowered vine",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8379,
+          -10.03767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GPS_ID": "1888",
+        "Notes": "Xylocarpus granatum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83722,
+          -10.0366
+        ]
+      }
+    }
+  ]
+}
