@@ -18,10 +18,10 @@
         "rdsi-geo1.hpc.jcu.edu.au",
         "nci.org.au",
         "static.nationalmap.nicta.com.au",
-        "githubusercontent.com",
-        "gov",
-        "gov.uk",
-        "gov.nz"
+        "cdn.rawgit.com",
+        "githubusercontent.com"
+    ],
+    "initPaths": [
     ]
 }
 

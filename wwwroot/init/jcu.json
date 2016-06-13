@@ -7,6 +7,11 @@
 
             },
 
+            "corsDomains" : [
+                "corsproxy.com",
+                "programs.communications.gov.au"
+            ],
+
 
   "catalog": [
     {
@@ -51,6 +56,43 @@
               "url": "test/bruvs-indonesia-kapoposang.geojson",
               "initialMessage": {
                 "title": "JC10 BRUVS Indonesia",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Indonesia Nusapenida (GeoJSON)",
+              "type": "geojson",
+              "url": "test/bruvs-indonesia-nusapenida.geojson",
+              "initialMessage": {
+                "title": "JC10 BRUVS Indonesia",
+                "content": "",
+                "key": ""
+              }
+            }
+          ],
+          "isOpen": false
+        },
+        {
+          "name": "JC12 MangroveWatch",
+          "type": "group",
+          "items": [
+            {
+              "name": "Iama Island Mangrove Imagery Locations (GeoJSON)",
+              "type": "geojson",
+              "url": "test/jc12-mangrovewatch/iama.geojson",
+              "initialMessage": {
+                "title": "JC12 MangroveWatch",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Brisbane River Left Hand Side 2011 (GeoJSON)",
+              "type": "geojson",
+              "url": "https://cdn.rawgit.com/jcu-eresearch/RDS-Marine-Services/master/datasets/JC12-Mangrovewatch/geojson/brisbane-river-lhs.geojson",
+              "initialMessage": {
+                "title": "JC12-Mangrovewatch",
                 "content": "",
                 "key": ""
               }
