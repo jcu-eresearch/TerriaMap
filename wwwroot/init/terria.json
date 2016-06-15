@@ -1,8 +1,20 @@
 {
-  "homeCamera": {
-    "north": -8,
-    "east": 158,
-    "south": -45,
-    "west": 109
-  }
+	"homeCamera": {
+		"north": -8,
+		"east": 158,
+		"south": -45,
+		"west": 109
+	},
+	"initialCamera": {
+		"lookAt": {
+			"targetLongitude": 146.8179,
+			"targetLatitude": -19.2576,
+			"targetHeight": 0,
+			"heading": 15,
+			"pitch": 5,
+			"range": 3000
+		}
+	},
+	"baseMapName": "Bing Maps Aerial",
+	"viewerMode": "3d"
 }
