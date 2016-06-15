@@ -56,22 +56,27 @@ URL shortner), then URL-decode the URL you get.
 
 **Option 3: locate the camera like a spaceship**
 
-This overrides Options 1 and 2.
+This is useful for when you're showing a view from an aircraft or
+satellite, and overrides Options 1 and 2.
 
 You can specify:
 
  - `positionHeadingPitchRoll.cameraLongitude`
  - `positionHeadingPitchRoll.cameraLatitude`
- - `positionHeadingPitchRoll.cameraHeight`, probably in metres
- - `positionHeadingPitchRoll.heading`, in degrees clockwise from north
- - `positionHeadingPitchRoll.pitch`, in degrees down from horizontal
- - `positionHeadingPitchRoll.roll`, probably in degrees?
+ - `positionHeadingPitchRoll.cameraHeight` probably in metres
+ - `positionHeadingPitchRoll.heading` in degrees clockwise from north
+ - `positionHeadingPitchRoll.pitch` in degrees down from horizontal
+ - `positionHeadingPitchRoll.roll` in degrees
 
-...and get what you expect.
+...and get the viewpoint at the position you specify, pointing toward
+the `heading` you gave, angled downward by `pitch` degrees (or
+upward, if you supply a negative pitch value), and rolled (which
+means tipped sideways) the specified degrees.
 
 **Option 4: look at a feature**
 
-This is *the good one*, and overrides Options 1, 2, and 3.
+This is probably the most useful one for showing a feature on the
+map, and overrides Options 1, 2, and 3.
 
  - `lookAt.targetLongitude`
  - `lookAt.targetLatitude`
@@ -79,6 +84,7 @@ This is *the good one*, and overrides Options 1, 2, and 3.
  - `lookAt.heading`, in degrees clockwise from north
  - `lookAt.pitch`, in degrees down from horizontal (so negative values mean you're looking at the sky)
  - `lookAt.range`, in metres from the thing you're looking at
+
 
 The example below uses plain old bounds for the `homeCamera`, and
 a `lookAt` key for the `initialCamera`.
