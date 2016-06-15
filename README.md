@@ -25,15 +25,16 @@ You can start the map with the camera at whatever you like.  Here's
 an example JSON config, with commentary.
 
 `homeCamera` and `initialCamera` are specified identically.
-`initialCamera` is what you get when the map starts.  The `homeCamera`
-is what you get when you click the "reload"-looking button between the
-zoom in and zoom out buttons.
+`initialCamera` is what you get when the map first displays.  The
+`homeCamera` is what you get when you click the "reload"-looking
+button between the zoom in and zoom out buttons.
 
 **Option 1: specify bounds**
 
 The `homeCamera` example here specifies `north`, `east `,`south`, and
-`west`.  The camera will be positioned looking at the Earth's centre,
-zoomed back enough to include the specified bounds.
+`west`, in lat/lng decimal degrees.  The camera will be positioned
+in the centre point of those bounds, looking toward the Earth's
+centre, zoomed back enough to see to the edges of the bounds.
 
 **Option 2: specify position in super-fixed coordinates**
 
@@ -42,10 +43,16 @@ This overrides Option 1.
 You can specify `position`, `direction`, and `up` (as well as
 `north`, `east `,`south`, and `west`). `position` and `direction`
 need `x`, `y` and `z` keys specifying locations in [ECEF] metre
-coordinates, which is basically un-usable for normal humans. To see
-an example of this, fly the camera around a bit on national map,
-click the "share" button (and choose to not use the URL shortner),
-and URL-decode the URL you get.
+coordinates, which means the origin is the centre of the Earth,
+positive Z points to the north pole, positive X points toward
+["Null island"](https://en.wikipedia.org/wiki/Null_Island) where the
+equator intersects with 0 degrees longitude, and positive Y points at
+(0, 90E), which is in the Indian Ocean, south of the Bay of Bengal.
+
+For most purposed positioning this way is difficult for normal
+humans. To see an example, fly the camera around a bit on
+nationalmap, click the "share" button (and choose to not use the
+URL shortner), then URL-decode the URL you get.
 
 **Option 3: locate the camera like a spaceship**
 
@@ -59,7 +66,6 @@ You can specify:
  - `positionHeadingPitchRoll.heading`, in degrees clockwise from north
  - `positionHeadingPitchRoll.pitch`, in degrees down from horizontal
  - `positionHeadingPitchRoll.roll`, probably in degrees?
-
 
 ...and get what you expect.
 
