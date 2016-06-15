@@ -42,12 +42,13 @@ This overrides Option 1.
 
 You can specify `position`, `direction`, and `up` (as well as
 `north`, `east `,`south`, and `west`). `position` and `direction`
-need `x`, `y` and `z` keys specifying locations in [ECEF] metre
-coordinates, which means the origin is the centre of the Earth,
-positive Z points to the north pole, positive X points toward
-["Null island"](https://en.wikipedia.org/wiki/Null_Island) where the
+need `x`, `y` and `z` keys specifying locations in
+[ECEF](https://en.wikipedia.org/wiki/ECEF) metre coordinates, which
+means the origin is the centre of the Earth, positive Z points to
+the north pole, positive X points toward
+["Null Island"](https://en.wikipedia.org/wiki/Null_Island) where the
 equator intersects with 0 degrees longitude, and positive Y points at
-(0, 90E), which is in the Indian Ocean, south of the Bay of Bengal.
+(0, 90E) -- which is in the Indian Ocean south of the Bay of Bengal.
 
 For most purposed positioning this way is difficult for normal
 humans. To see an example, fly the camera around a bit on
