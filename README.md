@@ -21,22 +21,22 @@ npm run watch    # Build the site, and watch for changes
 
 ### Positioning the map's viewing camera
 
-You can start the map with the camera at whatever you like.  Here's
-an example JSON config, with commentary.
+You can start the map with the camera at whatever you like.
 
-`homeCamera` and `initialCamera` are specified identically.
-`initialCamera` is what you get when the map first displays.  The
-`homeCamera` is what you get when you click the "reload"-looking
-button between the zoom in and zoom out buttons.
+Maps have two camera positions, `homeCamera` and `initialCamera`,
+which are specified identically.  The `initialCamera` is what you get
+when the map first displays.  The `homeCamera` is what you get when
+you click the "reload"-looking button between the zoom in and zoom
+out buttons.
 
-**Option 1: specify bounds**
+#### Option 1: specify bounds
 
 The `homeCamera` example here specifies `north`, `east `,`south`, and
 `west`, in lat/lng decimal degrees.  The camera will be positioned
 in the centre point of those bounds, looking toward the Earth's
 centre, zoomed back enough to see to the edges of the bounds.
 
-**Option 2: specify position in super-fixed coordinates**
+#### Option 2: specify position in super-fixed coordinates
 
 This overrides Option 1.
 
@@ -54,7 +54,7 @@ humans. To see an example, fly the camera around a bit on
 nationalmap, click the "share" button (and choose to not use the
 URL shortner), then URL-decode the URL you get.
 
-**Option 3: locate the camera like a spaceship**
+#### Option 3: locate the camera like a spaceship
 
 This is useful for when you're showing a view from an aircraft or
 satellite, and overrides Options 1 and 2.
@@ -73,7 +73,7 @@ the `heading` you gave, angled downward by `pitch` degrees (or
 upward, if you supply a negative pitch value), and rolled (which
 means tipped sideways) the specified degrees.
 
-**Option 4: look at a feature**
+#### Option 4: look at a feature
 
 This is probably the most useful one for showing a feature on the
 map, and overrides Options 1, 2, and 3.
