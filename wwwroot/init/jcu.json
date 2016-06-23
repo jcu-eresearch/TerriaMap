@@ -1,11 +1,10 @@
 {
-  "initialCamera": {
-    "north": -8,
-    "east": 158,
-    "south": -45,
-    "west": 109
-
-            },
+  "homeCamera": {
+  		"north": -8,
+  		"east": 158,
+  		"south": -45,
+  		"west": 109
+  	},
 
             "corsDomains" : [
                 "corsproxy.com",
@@ -36,16 +35,57 @@
               }
             }
           ],
+          "initialCamera": {
+        		"lookAt": {
+        			"targetLongitude": 146.8179,
+        			"targetLatitude": -19.2576,
+        			"targetHeight": 0,
+        			"heading": 15,
+        			"pitch": 5,
+        			"range": 3000
+        		}
+        	},
+          "isOpen": true
+        },
+        {
+          "name": "JC08 Seagrass Monitoring",
+          "type": "group",
+
+          "items": [
+            {
+              "name": "JC08 Seagrass Monitoring (TopoJSON)",
+              "type": "geojson",
+              "url": "test/jc08-seagrass.geojson",
+              "isEnabled": false,
+              "initialMessage": {
+                "title": "Seagrass Monitoring",
+                "content": "",
+                "key": ""
+              }
+            }
+          ],
+          "initialCamera": {
+        		"lookAt": {
+        			"targetLongitude": 146.8179,
+        			"targetLatitude": -19.2576,
+        			"targetHeight": 0,
+        			"heading": 15,
+        			"pitch": 5,
+        			"range": 3000
+        		}
+        	},
           "isOpen": true
         },
         {
           "name": "JC10 BRUVS",
           "type": "group",
+          "isOpen": true,
           "items": [
             {
               "name": "Malaysia (GeoJSON)",
               "type": "geojson",
               "url": "test/bruvs-malaysia.geojson",
+              "isEnabled": false,
               "initialMessage": {
                 "title": "JC10 BRUVS Malaysia",
                 "content": "",
@@ -73,16 +113,27 @@
               }
             }
           ],
-          "isOpen": false
+          "initialCamera": {
+            "lookAt": {
+              "targetLongitude": 116.8179,
+              "targetLatitude": 4.2576,
+              "targetHeight": 0,
+              "heading": 0,
+              "pitch": 35,
+              "range": 2000000
+            }
+          },
+          "isOpen": true
         },
         {
           "name": "JC12 MangroveWatch",
           "type": "group",
+          "isOpen":true,
           "items": [
             {
-              "name": "Iama Island Mangrove Imagery Locations (GeoJSON)",
+              "name": "Iama Island Mangrove Imagery (GeoJSON)",
               "type": "geojson",
-              "url": "test/jc12-mangrovewatch/iama.geojson",
+              "url": "test/iama.geojson",
               "initialMessage": {
                 "title": "JC12 MangroveWatch",
                 "content": "",
@@ -102,7 +153,7 @@
             {
               "name": "Sassie Island Torres Strait (GeoJSON)",
               "type": "geojson",
-              "url": "test/jc12-mangrovewatch/sassie.geojson",
+              "url": "test/sassie.geojson",
               "initialMessage": {
                 "title": "JC12-Mangrovewatch",
                 "content": "",
@@ -112,7 +163,7 @@
             {
               "name": "Tingalpa Creek (GeoJSON)",
               "type": "geojson",
-              "url": "test/jc12-mangrovewatch/tingalpa-creek.geojson",
+              "url": "test/tingalpa-creek.geojson",
               "initialMessage": {
                 "title": "JC12-Mangrovewatch",
                 "content": "",
@@ -130,7 +181,17 @@
               }
             }
           ],
-          "isOpen": false
+          "initialCamera": {
+            "lookAt": {
+              "targetLongitude": 116.8179,
+              "targetLatitude": 4.2576,
+              "targetHeight": 0,
+              "heading": 0,
+              "pitch": 35,
+              "range": 2000000
+            }
+          },
+          "isOpen": true
         }
       ],
       "isOpen": true

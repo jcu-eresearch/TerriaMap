@@ -1,7 +1,6 @@
 {
     "initializationUrls" : [
         "jcu",
-        "examples",
         "ga",
         "csiro"
     ],

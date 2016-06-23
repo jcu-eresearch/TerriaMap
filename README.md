@@ -18,3 +18,9 @@ npm install      # Install dependencies, including gulp
 npm start        # Start the server in the background
 npm run watch    # Build the site, and watch for changes
 ```
+
+Open your browser to http://localhost:3001
+
+## Camera positioning
+
+If you are chasing how to position the camera look at `wwwroot/init/camera.json`.
