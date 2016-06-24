@@ -5,21 +5,17 @@
   		"south": -45,
   		"west": 109
   	},
-
-            "corsDomains" : [
-                "corsproxy.com",
-                "programs.communications.gov.au",
-                "cdn.rawgit.com",
-                "github.com"
-            ],
-
-
+    "corsDomains" : [
+        "corsproxy.com",
+        "programs.communications.gov.au",
+        "cdn.rawgit.com",
+        "github.com"
+    ],
   "catalog": [
     {
       "name": "JCU Marine Data",
       "type": "group",
       "items": [
-
         {
           "name": "JC15 Coral Traits",
           "type": "group",
@@ -34,18 +30,7 @@
                 "key": ""
               }
             }
-          ],
-          "initialCamera": {
-        		"lookAt": {
-        			"targetLongitude": 146.8179,
-        			"targetLatitude": -19.2576,
-        			"targetHeight": 0,
-        			"heading": 15,
-        			"pitch": 5,
-        			"range": 3000
-        		}
-        	},
-          "isOpen": true
+          ]
         },
         {
           "name": "JC08 Seagrass Monitoring",
@@ -64,17 +49,7 @@
               }
             }
           ],
-          "initialCamera": {
-        		"lookAt": {
-        			"targetLongitude": 146.8179,
-        			"targetLatitude": -19.2576,
-        			"targetHeight": 0,
-        			"heading": 15,
-        			"pitch": 5,
-        			"range": 3000
-        		}
-        	},
-          "isOpen": true
+          "isOpen": false
         },
         {
           "name": "JC10 BRUVS",
@@ -113,22 +88,12 @@
               }
             }
           ],
-          "initialCamera": {
-            "lookAt": {
-              "targetLongitude": 116.8179,
-              "targetLatitude": 4.2576,
-              "targetHeight": 0,
-              "heading": 0,
-              "pitch": 35,
-              "range": 2000000
-            }
-          },
-          "isOpen": true
+          "isOpen": false
         },
         {
           "name": "JC12 MangroveWatch",
           "type": "group",
-          "isOpen":true,
+          "isOpen":false,
           "items": [
             {
               "name": "Iama Island Mangrove Imagery (GeoJSON)",
@@ -180,21 +145,36 @@
                 "key": ""
               }
             }
-          ],
-          "initialCamera": {
-            "lookAt": {
-              "targetLongitude": 116.8179,
-              "targetLatitude": 4.2576,
-              "targetHeight": 0,
-              "heading": 0,
-              "pitch": 35,
-              "range": 2000000
-            }
-          },
-          "isOpen": true
-        }
-      ],
-      "isOpen": true
+          ]
+        },
+          {
+            "name": "JC15 Coral Traits",
+            "type": "group",
+            "isOpen": true,
+            "items": [
+              {
+                "name": "Coral Traits Database (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc15-coraltraits.geojson",
+                "initialMessage": {
+                  "title": "JC15 Coral Traits",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "Coral Traits Database (TopoJSON)",
+                "type": "geojson",
+                "url": "test/jc15-coraltraits-topo.geojson",
+                "initialMessage": {
+                  "title": "JC15 Coral Traits",
+                  "content": "",
+                  "key": ""
+                }
+              }
+            ]
+          }
+      ]
     }
   ]
 }
