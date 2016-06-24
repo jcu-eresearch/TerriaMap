@@ -20,7 +20,6 @@
       "name": "JCU Marine Data",
       "type": "group",
       "items": [
-
         {
           "name": "JC15 Coral Traits",
           "type": "group",
@@ -35,8 +34,31 @@
                 "key": ""
               }
             }
+<<<<<<< HEAD
           ],
           "isOpen": true
+=======
+          ]
+        },
+        {
+          "name": "JC08 Seagrass Monitoring",
+          "type": "group",
+
+          "items": [
+            {
+              "name": "JC08 Seagrass Monitoring (TopoJSON)",
+              "type": "geojson",
+              "url": "test/jc08-seagrass.geojson",
+              "isEnabled": false,
+              "initialMessage": {
+                "title": "Seagrass Monitoring",
+                "content": "",
+                "key": ""
+              }
+            }
+          ],
+          "isOpen": false
+>>>>>>> remove the initialCamera entries that don't work
         },
         {
           "name": "JC10 BRUVS",
@@ -78,6 +100,10 @@
         {
           "name": "JC12 MangroveWatch",
           "type": "group",
+<<<<<<< HEAD
+=======
+          "isOpen":false,
+>>>>>>> remove the initialCamera entries that don't work
           "items": [
             {
               "name": "Iama Island Mangrove Imagery Locations (GeoJSON)",
@@ -129,11 +155,44 @@
                 "key": ""
               }
             }
+<<<<<<< HEAD
           ],
           "isOpen": false
         }
       ],
       "isOpen": true
+=======
+          ]
+        },
+          {
+            "name": "JC15 Coral Traits",
+            "type": "group",
+            "isOpen": true,
+            "items": [
+              {
+                "name": "Coral Traits Database (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc15-coraltraits.geojson",
+                "initialMessage": {
+                  "title": "JC15 Coral Traits",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "Coral Traits Database (TopoJSON)",
+                "type": "geojson",
+                "url": "test/jc15-coraltraits-topo.geojson",
+                "initialMessage": {
+                  "title": "JC15 Coral Traits",
+                  "content": "",
+                  "key": ""
+                }
+              }
+            ]
+          }
+      ]
+>>>>>>> remove the initialCamera entries that don't work
     }
   ]
 }
