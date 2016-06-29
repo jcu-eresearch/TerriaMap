@@ -17,7 +17,7 @@
 
   "catalog": [
     {
-      "name": "JCU Marine Data",
+      "name": "JCU RDS Marine Data (alpha)",
       "type": "group",
       "items": [
         {
@@ -38,6 +38,22 @@
           ],
           "isOpen": true
 =======
+          ]
+        },
+        {
+          "name": "JC16 Coral Connectivity",
+          "type": "group",
+          "items": [
+            {
+              "name": "JC15-Coral Connectivity (GeoJSON)",
+              "type": "geojson",
+              "url": "test/jc-16-coralconnectivity-output-1993_01_01.geojson",
+              "initialMessage": {
+                "title": "CoralConnectivity",
+                "content": "https://data.tropicaldatahub.org/Q0210/",
+                "key": ""
+              }
+            }
           ]
         },
         {
