@@ -23,9 +23,10 @@
         {
           "name": "JC15 Coral Traits",
           "type": "group",
+          "description": "testing description",
           "items": [
             {
-              "name": "JC15-Coral Traits Database (GeoJSON)",
+              "name": "JC15-Coral Traits Database  (GeoJSON)",
               "type": "geojson",
               "url": "test/jc15-coraltraits-small.geojson",
               "initialMessage": {
@@ -45,12 +46,12 @@
           "type": "group",
           "items": [
             {
-              "name": "JC15-Coral Connectivity (GeoJSON)",
+              "name": "JC16 Coral Connectivity (GeoJSON)",
               "type": "geojson",
               "url": "test/jc-16-coralconnectivity-output-1993_01_01.geojson",
               "initialMessage": {
                 "title": "CoralConnectivity",
-                "content": "https://data.tropicaldatahub.org/Q0210/",
+                "content": "",
                 "key": ""
               }
             }
@@ -185,18 +186,9 @@
             "type": "group",
             "isOpen": true,
             "items": [
+
               {
-                "name": "Coral Traits Database (GeoJSON)",
-                "type": "geojson",
-                "url": "test/jc15-coraltraits.geojson",
-                "initialMessage": {
-                  "title": "JC15 Coral Traits",
-                  "content": "",
-                  "key": ""
-                }
-              },
-              {
-                "name": "Coral Traits Database (TopoJSON)",
+                "name": "JC15 Coral Traits Database (TopoJSON)",
                 "type": "geojson",
                 "url": "test/jc15-coraltraits-topo.geojson",
                 "initialMessage": {
