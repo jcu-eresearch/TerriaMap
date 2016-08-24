@@ -181,6 +181,214 @@
                 }
               }
             ]
+          },
+        {
+            "name": "JC05 3DGBR-Features",
+            "type": "group",
+            "isOpen": false,
+            "items": [
+
+              {
+                "name": "coralsea_abyssalplain (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_abyssalplain.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "coralsea_bank (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_bank.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_basin (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_basin.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_canyon (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_canyon.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_dryreef (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_dryreef.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_knoll (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_knoll.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_plateau (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_plateau.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_reef (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_reef.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_ridge (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_ridge.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_rise (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_rise.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_seamount (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_seamount.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_slope (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_slope.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_terrace (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_terrace.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_trough (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_trough.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsoncoralsea_valley (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsoncoralsea_valley.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsongbr_dryreef (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsongbr_dryreef.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsongbr_features (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsongbr_features.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsongbr_shelf (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsongbr_shelf.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsongbrwha_outer (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsongbrwha_outer.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              },
+              {
+                "name": "geojsonqld_gbrwha_cscz (GeoJSON)",
+                "type": "geojson",
+                "url": "test/jc05-3dgbr-features/geojsonqld_gbrwha_cscz.geojson",
+                "initialMessage": {
+                  "title": "JC05 3DGBR-Features",
+                  "content": "",
+                  "key": ""
+                }
+              }
+            ]
           }
       ]
     }
