@@ -1,0 +1,59 @@
+@import '~terriajs/lib/Sass/common/_variables.scss';
+
+
+// ------------------------------------------------------------------
+// TDH colours
+
+// // TDH light colours
+// normal: efe6c5 / 239,230,197
+// lighter: fff5d1 / 255,245,209 (or just #fff)
+// darker: cfc6a9 / 207,198,169
+// shaded thing: 216,201,167
+
+// // TDH dark colours
+// super dark bg: 2d4048
+// dark bg: 242732
+
+// // TDH mid colour / highlights
+// rich green: 28867c
+// rich green - dark: 008678 (good for hilighting against light bg)
+// dull green: 6e9a81
+
+$tdh-background: #2d4048;
+$tdh-headerbackground: #242732;
+$tdh-bodybackground: #efe6c5;
+
+$tdh-highlight: #28867c;
+$highlight-color: saturate($tdh-highlight, 20%);
+
+
+
+// To customise the look of your map, uncomment and change values here and in lib/Views/global.scss
+
+// If your logo is big, set this to give it more room.
+// $logo-height: 120px;
+
+// // If using a non-standard font, remember to include an @import statement in global.scss
+// $font-base: 'Josefin Sans', sans-serif; 
+// $font-pop: $font-base; // If you just want to use one font throughout, do this.
+
+// These variables are for buttons and text.
+// "color-secondary" should be a lighter color than "color-primary" but still readable contrasted with white.
+$color-primary: $tdh-highlight;
+// $color-secondary: hsl(60,80%,60%); // or: lighten($color-primary, 20%);
+$color-secondary: lighten($color-primary, 20%);
+
+// These variables set background panel colors
+$dark: $tdh-background;
+$dark-with-overlay: $tdh-headerbackground;
+$dark-lighter: $tdh-bodybackground;
+
+$color-primary-dark: $tdh-background;
+
+// $dark-with-overlay: hsl(0,30%,30%);
+// $dark-lighter: hsl(0,30%,50%);
+
+// // You might find it helpful to define these and use them.
+// $color-primary-light:lighten($color-primary,10%);
+// $color-primary-dark:darken($color-primary,10%);
+$dark-darker: $tdh-headerbackground;
