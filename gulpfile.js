@@ -332,6 +332,7 @@ gulp.task('render-datasource-templates', function() {
                 result = JSON.stringify(JSON5.parse(result), null, 2);
                 console.log('Rendered template ' + outFilename);
             } catch (e) {
+                console.log(e);
                 console.warn('Warning: Rendered template ' + outFilename + ' is not valid JSON');
             }
             fs.writeFileSync(path.join('wwwroot/init', outFilename), new Buffer(result));

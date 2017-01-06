@@ -23,8 +23,22 @@ body {
         font-family: $font-base;
     }
 
+
+
     // Logo area in top left
     .tjs-branding__branding {
+
+      // Begin dirty hacks to center logo
+
+      // display:table-cell;
+      vertical-align:middle;
+      text-align:center;
+      margin-bottom: 25px;
+      margin-top: 10px;
+      height: 80px;
+
+      // End
+
         a:first-child, a:last-child {
             display: none;
 
@@ -33,11 +47,11 @@ body {
             }
         }
         // Different font size for the branding
-        font-weight: 300;
-        color: white;
-        font-size: 26px;
-        padding-top:2px;
-        padding-left:6px;
+        // font-weight: 300;
+        // color: white;
+        // font-size: 26px;
+        // padding-top:2px;
+        // padding-left:6px;
 
         // To make the logo clickable, it should be instead set in config.json, at "brandBarElements"
         // background:$dark url(http://www.public-domain-image.com/backgrounds/slides/abstract-waves-on-a-blue-background.jpg);
@@ -60,11 +74,11 @@ body {
 
     // All kinds of buttons in various screens
     .tjs-_buttons__btn {
-        &-primary { 
-            font-family: $font-base; 
+        &-primary {
+            font-family: $font-base;
         }
-        &:hover { 
-            color: $color-primary;             
+        &:hover {
+            color: $color-primary;
         }
     }
 
@@ -76,11 +90,11 @@ body {
 
     // Lat/lon buttons
     .tjs-legend__locationBar, .tjs-legend__distanceLegend {
-        
+
         background:$dark;
         color:white;
         &:hover,&:focus { background: $dark; color: white; }
-    
+
     }
 
     // Progress bar while datasets are loading
@@ -95,7 +109,7 @@ body {
     }
 
     .tjs-timeline__text-cell {
-        font-family: $font-base; 
+        font-family: $font-base;
     }
 
     .tjs-timeline__timeline {
@@ -139,15 +153,15 @@ body {
     .tjs-data-catalog-item__btn-catalog-item--is-previewed {
         &:focus {color: $color-primary; }
     }
-      // The tabs at the top 
-    .tjs-tabs__btn--tab {    
+      // The tabs at the top
+    .tjs-tabs__btn--tab {
         font-family:$font-base
     }
 
     .tjs-tabs__btn--selected {
         color:$color-primary-dark;
     }
-    .tjs-tabs__btn--tab:hover {    
+    .tjs-tabs__btn--tab:hover {
         color:$color-secondary;
     }
 

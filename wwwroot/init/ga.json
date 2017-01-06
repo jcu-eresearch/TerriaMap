@@ -12,9 +12,9 @@
     "services": [],
     "catalog": [
         {
-            "name": "GA",
+            "name": "Geographic Australia",
             "type": "group",
-            "isOpen": true,
+            "isOpen": false,
             "items": [
                 {
                     "name": "Culture and Infrastructure",
