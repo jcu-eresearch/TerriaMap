@@ -82,7 +82,7 @@ ul {
 
 .side-nav .active {
   font-weight: bold;
-} 
+}
 
 .nav-header {
   font-size: 16px;
@@ -96,7 +96,7 @@ ul {
 
 .navbar-inverse {
   background-color: #353B43;
-  border-color: #080808; 
+  border-color: #080808;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -117,12 +117,12 @@ ul {
 }
 
 .navbar-brand {
-  padding-top: 5px;
+  padding-top: 1px;
   padding-bottom: 5px;
 }
 
 .navbar-brand img {
-  width: 140px;
+  width: 160px;
 }
 
 
@@ -198,7 +198,7 @@ h2 > a {
 @media (min-width: @screen-md-min) { ... }
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) { 
+@media (min-width: 1200px) {
 
 .navbar {
   min-height: 80px;
@@ -212,7 +212,7 @@ h2 > a {
 
 .navbar-brand {
   margin-right: 80px;
-  padding-top: 15px;
+  padding-top: 1px;
   padding-bottom: 15px;
 }
 
@@ -221,7 +221,7 @@ h2 > a {
 }
 
 .navbar-brand img {
-  width: 170px;
+  width: 160px;
 }
 
 .content {

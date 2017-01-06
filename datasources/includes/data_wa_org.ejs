@@ -1,0 +1,16 @@
+{
+  "filterQuery": [
+    {
+        fq: '(organization:<%= org %> AND(res_format:wms OR res_format:WMS OR res_format:csv-geo-au OR res_format:aus-geo-csv))'
+    }
+  ],
+  "url": "http://catalogue.beta.data.wa.gov.au",
+  "name": "<%= name %>",
+  "type": "ckan",
+  "includeCsv": true,
+  "includeGeoJson": true,
+  "includeKml": true,
+  "includeWms": true,
+  "includeWfs": true,
+  "ungroupedTitle": ""
+}

@@ -1,0 +1,18 @@
+{
+  "minimumMaxScaleDenominator": 10000000000,
+  "filterByWmsGetCapabilities": false,
+  "filterQuery": [
+    { 
+        fq: '(organization:<%= org %> AND(res_format:geojson OR res_format:GeoJSON OR res_format:csv-geo-au OR res_format:aus-geo-csv))' 
+    }
+  ],
+  "url": "https://data.sa.gov.au/data",
+  "name": "<%= name %>",
+  "filterByWmsGetCapabilities": false,
+  "includeWms": false,
+  "type": "ckan",
+  "includeCsv": true,
+  "includeGeoJSON": true,
+  "includeKml": true,
+  "ungroupedTitle": ""
+}

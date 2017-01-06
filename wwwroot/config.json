@@ -1,10 +1,22 @@
 {
     "initializationUrls" : [
+<<<<<<< HEAD
         "jcu",
         "examples",
         "ga",
         "csiro",
         "ckan"
+=======
+        // "ga",
+        // "test",
+        "jcu",
+        "ga",
+        "nm",
+        "ckan"
+
+        // "nm"
+        // "csiro"
+>>>>>>> replace national map with tdh map in docs, update data files
     ],
     "parameters": {
         "bingMapsKey": "AsHSoLOTcVFgFjsd0U3FqmyI-6riq-Y0-y8sVkj0NZLHJU1YqnyaChyBmhHiEwM3",
@@ -14,6 +26,7 @@
         "disclaimer": {
             "text": "Disclaimer: This map must not be used for navigation or precise spatial analysis",
             "url": ""
+<<<<<<< HEAD
         },
         "developerAttribution": {
             "text": "JCU eResearch Centre",
@@ -39,5 +52,19 @@
         // Enable experimental features, since its nice to have the bleeding edge.
         // Disable it if things go wrong with the experimental features or your users aren't robust to features which might change or disapear completly.
         "experimentalFeatures": true
+=======
+        },
+        "developerAttribution": {
+            "text": "JCU eResearch Centre",
+            "link": "http://eresearch.jcu.edu.au"
+        },
+        "appName": "Maps@TDH",
+        "supportEmail": "eresearch@jcu.edu.au",
+        "brandBarElements": [
+            "",
+            "<a target=\"_blank\" href=\"https://tropicaldatahub.org\"><img src=\"images/tdh_logo.png\"  title=\"Version: {{version}}\" /></a>",
+            ""
+        ]
+>>>>>>> replace national map with tdh map in docs, update data files
     }
 }

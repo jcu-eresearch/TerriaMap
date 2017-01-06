@@ -12,7 +12,7 @@
     "services": [],
     "catalog": [
         {
-            "name": "GA",
+            "name": "Geographic Australia",
             "type": "group",
             "isOpen": false,
             "items": [
