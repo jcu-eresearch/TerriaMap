@@ -61,9 +61,9 @@
         "appName": "Maps@TDH",
         "supportEmail": "eresearch@jcu.edu.au",
         "brandBarElements": [
-            "",
-            "<a target=\"_blank\" href=\"https://tropicaldatahub.org\"><img src=\"images/tdh_logo.png\"  title=\"Version: {{version}}\" /></a>",
-            ""
+            "<a target=\"_blank\" href=\"https://tropicaldatahub.org\"><img height: \"70\" src=\"images/TDH-white-vector-justswirl.svg\"  title=\"Version: {{version}}\" /></a>",
+            "<a target=\"_blank\" href=\"https://tropicaldatahub.org\"><img height: \"50\" src=\"images/TDH-white-vector-justtext-nofont.svg\"  title=\"Version: {{version}}\" /></a>",
+            "<a></a>"
         ]
 >>>>>>> replace national map with tdh map in docs, update data files
     }
