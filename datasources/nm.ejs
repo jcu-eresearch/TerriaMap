@@ -1,0 +1,52 @@
+{
+  "services": [],
+  "homeCamera": {
+    "north": -8,
+    "east": 158,
+    "south": -45,
+    "west": 109
+  },
+  "corsDomains": [
+    "corsproxy.com",
+    "programs.communications.gov.au",
+    "www.asris.csiro.au",
+    "mapsengine.google.com",
+    "s3-ap-southeast-2.amazonaws.com",
+    "data.melbourne.vic.gov.au",
+    "data.act.gov.au"
+  ],
+  "catalog": [
+        {
+            "name": "National Datasets",
+            "id": "Root Group/National Data Sets",
+            "type": "group",
+            "items": [
+                <%- include National_Datasets/Ground_Water %>,
+                <%- include National_Datasets/Land %>,
+                <%- include National_Datasets/National_Boundaries %>,
+                <%- include National_Datasets/Social_and_Economic %>,
+                <%- include National_Datasets/Framework %>,
+                <%- include National_Datasets/Habitation %>,
+                <%- include National_Datasets/Infrastructure %>,
+                <%- include National_Datasets/Surface_Water %>,
+                <%- include National_Datasets/Terrain %>,
+                <%- include National_Datasets/Transport %>,
+                <%- include National_Datasets/Utility %>,
+                <%- include National_Datasets/Vegetation %>,
+                <%- include National_Datasets/Elevation %>,
+                <%- include National_Datasets/Environment %>
+            ]
+        },
+        <%- include includes/data_gov_au %>,
+        <%- include includes/Data_Providers %>,
+        <%- include includes/ACT %>,
+        <%- include includes/NSW %>,
+        <%- include includes/NT %>,
+        <%- include includes/QLD %>,
+        <%- include includes/SA %>,
+        <%- include includes/TAS %>,
+        <%- include includes/VIC %>,
+        <%- include includes/WA %>,
+        <%- include includes/Local_Government %>
+    ]
+}

@@ -1,6 +1,105 @@
 Change Log
 ==========
 
+### 2016-07-15
+
+* Catalog (init) files can now be stored as .ejs files in /datasources, rendered by the EJS templating library. See comments in gulpfile.js.
+* Updated to [TerriaJS](https://github.com/TerriaJS/terriajs) 4.0.2.  Significant changes relevant to NationalMap users include:
+  * A brand new user interface, incorporating user feedback and the results of usability testing!
+  * `CswCatalogGroup` will now include Web Processing Services from the catalog if configured with `includeWps` set to true.
+  * `WebMapServiceCatalogItem` will now detect ncWMS servers and set isNcWMS to true.
+  * Uses a new mechanism for storing the data associated with the Share feature, avoid URL length limits.
+  * Added partial support for the SDMX-JSON format.
+
+### 2016-06-15
+
+* Added a prominent link to the preview of the new UI.
+* Added GNAF as a location search provider.
+* Fixed an issue where the 404 error page would display incorrectly if given a non-existent path (eg, nationlmap.gov.au/nonexistent/path)
+* Added CNT3 as an alias for ISO3 as a csv column name (for three-letter country codes).
+* Updated to [TerriaJS](https://github.com/TerriaJS/terriajs) 3.3.0.  Significant changes relevant to NationalMap users include:
+  * `CkanCatalogItem.createCatalogItemFromResource`'s `options.allowGroups` has been replaced with `options.allowWmsGroups` and `options.allowWfsGroups`.
+  * Added support for WFS in CKAN items.
+  * Fixed a bug that prevented the terriajs-server's `"proxyAllDomains": true` option from working.
+  * Added support in FeatureInfoTemplate for referencing CSV columns by either their name in the CSV file, or the name they are given via `TableStyle.columns...name` (if any).
+  * Improved CSV handling to ignore any blank lines, ie. those containing only commas.
+  * Fixed a bug in `CswCatalogGroup` that prevented it from working in Internet Explorer.
+  * Fixed a bug on IE9 that prevented shortened URLs from loading.
+  * Fixed a map started with smooth terrain being unable to switch to 3D terrain.
+  * Fixed a bug in `CkanCatalogItem` that prevented it from using the proxy for dataset URLs.
+  * Fixed feature picking when displaying a point-based vector and a region mapped layer at the same time.
+  * Stopped generation of WMS intervals being dependent on JS dates and hence sensitive to daylight savings time gaps.
+  * Fixed a bug that led to zero property values being considered time-varying in the Feature Info panel.
+  * Fixed a bug that prevented lat/lon injection into templates with time-varying properties.
+  * Add `parameters` property in `WebFeatureServiceCatalogItem` to allow accessing URLs that need additional parameters.
+  * Fixed a bug where visiting a shared link with a time-series layer would crash on load.
+  * Added a direct way to format numbers in feature info templates, eg. `{{#terria.formatNumber}}{"useGrouping": true, "maximumFractionDigits": 3}{{value}}{{/terria.formatNumber}}`. The quotes around the keys are optional.
+  * When the number of unique values in a CSV column exceeds the number of color bins available, the legend now displays "XX other values" as the label for the last bucket rather than simply "Other".
+  * CSV columns with up to 21 unique values can now be fully displayed in the legend.  Previously, the number of bins was limited to 9.
+  * Added `cycle` option to `tableColumnStyle.colorBinMethod` for enumeration-type CSV columns.  When the number of unique values in the column exceeds the number of color bins available, this option makes TerriaJS color all values by cycling through the available colors, rather than coloring only the most common values and lumping the rest into an "Other" bucket.
+  * Metadata and single data files (e.g. KML, GeoJSON) are now consistently cached for one day instead of two weeks.
+  * `WebMapServiceCatalogItem` now uses the legend for the `style` specified in `parameters` when possible.  It also now includes the `parameters` when building a `GetLegendGraphic` URL.
+  * Fixed a bug that prevented switching to the 3D view after starting the application in 2D mode.
+### 2016-06-15
+* Support "globalDisclaimer" configuration option, defined as follows:
+        "globalDisclaimer": {
+            "confirmationRequired": true, // Whether user must click the correct button to dismiss it (otherwise click anywhere)
+            "buttonTitle": "I agree",     // Text for that button (defaults to "Ok").
+            "title": "Disclaimer",        // Title for the window
+            "prodHostRegex": "gov.\\.au$", // If this regular expression is NOT matched, add the DevelopmentDisclaimerPreamble.html
+            "devHostRegex-OPTIONAL": "\\b(staging|preview|test|dev)\\.", // If this regular expression IS matched, add that preamble
+            "enableOnLocalhost": true     // By default, Disclaimers are not shown when testing locally. Add this to test your disclaimer.
+        },
+
+
+### 2016-05-13b
+
+* Fixed a bug in the build configuration that allowed extra whitespace to be inserted in multi-line strings.  This whitespace could case the markdown formatter to treat the string as preformatted text and break, e.g., error messages.
+
+### 2016-05-13
+
+* Breaking changes:
+  * Columns with the name `ced_aec` are no longer supported for region mapping.  Please use `com_elb_code` or `com_elb_name` instead.
+* Added new region types for region mapping:
+  * Commonwealth electoral divisions 2016 by ID, from the Australian Electoral Commission: (column names: `divisionnm`, `com_elb_name_2016`, or `com_elb_name`)
+  * Commonwealth electoral divisions 2016 by name, from the Australian Electoral Commission: (column names: `divisionid`, `com_elb_code_2016`, `com_elb_code`, or `com_elb`)
+  * Natural resource management regions by ID (column names: `nrmr`, `nrmr_code`, or `nrmr_code_2011`)
+  * Natural resource management regions by name (column name: `nrmr_name`)
+  * Australian drainage divisions by ID (column names: `add`, `add_code`, `add_code_2011`)
+  * Australian drainage divisions by name (column name: `add_name`)
+* Updated to [TerriaJS](https://github.com/TerriaJS/terriajs) 3.1.0.  Significant changes relevant to NationalMap users include:
+  * Injected clicked lat and long into templates under `{{terria.coords.latitude}}` and `{{terria.coords.longitude}}`.
+  * Fixed an exception being thrown when selecting a region while another region highlight was still loading.
+  * Added `CesiumTerrainCatalogItem` to display a 3D surface model in a supported Cesium format.
+  * Added support for configuration of how time is displayed on the timeline - catalog items can now specify a dateFormat hash
+      in their configuration that has formats for `timelineTic` (what is displayed on the timeline itself) and `currentTime`
+      (which is the current time at the top-left).
+  * Fixed display when `tableStyle.colorBins` is 0.
+  * Added `fogSettings` option to init file to customize fog settings, introduced in Cesium 1.16.
+  * Improved zooming to csvs, to include a small margin around the points.
+  * Support ArcGIS MapServer extents specified in a wider range of projections, including GDA MGA zones.
+  * WMS legends now use a bigger font, include labels, and are anti-aliased when we can determine that the server is Geoserver and supports these options.
+  * Added support for time-series data sets with gaps - these are skipped when scrubbing on the timeline or playing.
+  * Only trigger a search when the user presses enter or stops typing for 3 seconds.  This will greatly reduce the number of times that searches are performed, which is important with a geocoder like Bing Maps that counts each geocode as a transaction.
+  * Reduced the tendency for search to lock up the web browser while it is in progress.
+  * For WMS catalog items that have animated data, the initial time of the timeslider can be specified with `initialTimeSource` as `start`, `end`, `present` (nearest date to present), or with an ISO8601 date.
+  * Added ability to remove csv columns from the Now Viewing panel, using `"type": "HIDDEN"` in `tableStyle.columns`.
+  * Updated to [Cesium](http://cesiumjs.org) 1.20.  Significant changes relevant to TerriaJS users include:
+      * Fixed loading for KML `NetworkLink` to not append a `?` if there isn't a query string.
+      * Fixed handling of non-standard KML `styleUrl` references within a `StyleMap`.
+      * Fixed issue in KML where StyleMaps from external documents fail to load.
+      * Added translucent and colored image support to KML ground overlays
+      * `GeoJsonDataSource` now handles CRS `urn:ogc:def:crs:EPSG::4326`
+      * Fix a race condition that would cause the terrain to continue loading and unloading or cause a crash when changing terrain providers. [#3690](https://github.com/AnalyticalGraphicsInc/cesium/issues/3690)
+      * Fix issue where the `GroundPrimitive` volume was being clipped by the far plane. [#3706](https://github.com/AnalyticalGraphicsInc/cesium/issues/3706)
+      * Fixed a reentrancy bug in `EntityCollection.collectionChanged`. [#3739](https://github.com/AnalyticalGraphicsInc/cesium/pull/3739)
+      * Fixed a crash that would occur if you added and removed an `Entity` with a path without ever actually rendering it. [#3738](https://github.com/AnalyticalGraphicsInc/cesium/pull/3738)
+      * Fixed issue causing parts of geometry and billboards/labels to be clipped. [#3748](https://github.com/AnalyticalGraphicsInc/cesium/issues/3748)
+      * Fixed bug where transparent image materials were drawn black.
+      * Fixed `Color.fromCssColorString` from reusing the input `result` alpha value in some cases.
+### 2016-05-15
+* Detect when an old version of Node.js is being used, and fail helpfully.
+
 ### 2016-04-15
 
 * Updated the URLs for the Water Observations from Space datasets to `geoserver.nci.org.au`.

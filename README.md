@@ -24,3 +24,4 @@ Open your browser to http://localhost:3001
 ## Camera positioning
 
 If you are chasing how to position the camera look at `wwwroot/init/camera.json`.
+TODO: Update this with new .ejs files to correctly preview datasets

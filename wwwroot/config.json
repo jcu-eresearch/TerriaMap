@@ -1,9 +1,14 @@
 {
     "initializationUrls" : [
+        // "ga",
+        // "test",
         "jcu",
         "ga",
-        "csiro",
+        "nm",
         "ckan"
+
+        // "nm"
+        // "csiro"
     ],
     "parameters": {
         "bingMapsKey": "AsHSoLOTcVFgFjsd0U3FqmyI-6riq-Y0-y8sVkj0NZLHJU1YqnyaChyBmhHiEwM3",
@@ -18,12 +23,12 @@
             "text": "JCU eResearch Centre",
             "link": "http://eresearch.jcu.edu.au"
         },
-        "appName": "TDH Map",
+        "appName": "Maps@TDH",
         "supportEmail": "eresearch@jcu.edu.au",
         "brandBarElements": [
-            "",
-            "<a target=\"_blank\" href=\"http://tropicaldatahub.org\"><img src=\"images/tdh_logo.png\" height=\"55\" title=\"Version: {{version}}\" /></a>",
-            ""
+            "<a target=\"_blank\" href=\"https://tropicaldatahub.org\"><img height: \"70\" src=\"images/TDH-white-vector-justswirl.svg\"  title=\"Version: {{version}}\" /></a>",
+            "<a target=\"_blank\" href=\"https://tropicaldatahub.org\"><img height: \"50\" src=\"images/TDH-white-vector-justtext-nofont.svg\"  title=\"Version: {{version}}\" /></a>",
+            "<a></a>"
         ]
     }
 }

@@ -13,18 +13,18 @@
     ],
   "catalog": [
     {
-      "name": "JCU RDS Marine Data (in progress)",
+      "name": "JCU Public Marine Data (in progress)",
       "type": "group",
       "items": [
         {
           "name": "JC15 Coral Traits",
           "type": "group",
-          "description": "testing description",
+          "description": "Coral Traits initial database",
           "items": [
             {
               "name": "JC15-Coral Traits Database  (GeoJSON)",
               "type": "geojson",
-              "url": "test/jc15-coraltraits-small.geojson",
+              "url": "data/jcu-geojson/jc15-coraltraits-small.geojson",
               "initialMessage": {
                 "title": "CoralTraits",
                 "content": "",
@@ -40,7 +40,7 @@
             {
               "name": "JC16 Coral Connectivity (GeoJSON)",
               "type": "geojson",
-              "url": "test/jc-16-coralconnectivity-output-1993_01_01.geojson",
+              "url": "data/jcu-geojson/jc-16-coralconnectivity-output-1993_01_01.geojson",
               "initialMessage": {
                 "title": "CoralConnectivity",
                 "content": "",
@@ -57,7 +57,7 @@
             {
               "name": "JC08 Seagrass Monitoring (TopoJSON)",
               "type": "geojson",
-              "url": "test/jc08-seagrass.geojson",
+              "url": "data/jcu-geojson/jc08-seagrass.geojson",
               "isEnabled": false,
               "initialMessage": {
                 "title": "Seagrass Monitoring",
@@ -76,7 +76,7 @@
             {
               "name": "Malaysia (GeoJSON)",
               "type": "geojson",
-              "url": "test/bruvs-malaysia.geojson",
+              "url": "data/jcu-geojson/bruvs-malaysia.geojson",
               "isEnabled": false,
               "initialMessage": {
                 "title": "JC10 BRUVS Malaysia",
@@ -87,7 +87,7 @@
             {
               "name": "Indonesia Kapoposang (GeoJSON)",
               "type": "geojson",
-              "url": "test/bruvs-indonesia-kapoposang.geojson",
+              "url": "data/jcu-geojson/bruvs-indonesia-kapoposang.geojson",
               "initialMessage": {
                 "title": "JC10 BRUVS Indonesia",
                 "content": "",
@@ -97,7 +97,7 @@
             {
               "name": "Indonesia Nusapenida (GeoJSON)",
               "type": "geojson",
-              "url": "test/bruvs-indonesia-nusapenida.geojson",
+              "url": "data/jcu-geojson/bruvs-indonesia-nusapenida.geojson",
               "initialMessage": {
                 "title": "JC10 BRUVS Indonesia",
                 "content": "",
@@ -115,7 +115,7 @@
             {
               "name": "Iama Island Mangrove Imagery (GeoJSON)",
               "type": "geojson",
-              "url": "test/iama.geojson",
+              "url": "data/jcu-geojson/iama.geojson",
               "initialMessage": {
                 "title": "JC12 MangroveWatch",
                 "content": "",
@@ -125,7 +125,7 @@
             {
               "name": "Brisbane River Left Hand Side 2011 (GeoJSON)",
               "type": "geojson",
-              "url": "https://cdn.rawgit.com/jcu-eresearch/RDS-Marine-Services/master/datasets/JC12-Mangrovewatch/geojson/brisbane-river-lhs.geojson",
+              "url": "https:/cdn.rawgit.com/jcu-eresearch/RDS-Marine-Services/master/datasets/JC12-Mangrovewatch/geojson/brisbane-river-lhs.geojson",
               "initialMessage": {
                 "title": "JC12-Mangrovewatch",
                 "content": "",
@@ -135,7 +135,7 @@
             {
               "name": "Sassie Island Torres Strait (GeoJSON)",
               "type": "geojson",
-              "url": "test/sassie.geojson",
+              "url": "data/jcu-geojson/sassie.geojson",
               "initialMessage": {
                 "title": "JC12-Mangrovewatch",
                 "content": "",
@@ -145,7 +145,7 @@
             {
               "name": "Tingalpa Creek (GeoJSON)",
               "type": "geojson",
-              "url": "test/tingalpa-creek.geojson",
+              "url": "data/jcu-geojson/tingalpa-creek.geojson",
               "initialMessage": {
                 "title": "JC12-Mangrovewatch",
                 "content": "",
@@ -155,7 +155,7 @@
             {
               "name": "Brisbane River Right Hand Side 2001 (GeoJSON)",
               "type": "geojson",
-              "url": "test/jc12-mangrovewatch/brisbane-river-rhs.geojson",
+              "url": "data/jcu-geojson/jc12-mangrovewatch/brisbane-river-rhs.geojson",
               "initialMessage": {
                 "title": "JC12-Mangrovewatch",
                 "content": "",
@@ -173,7 +173,7 @@
               {
                 "name": "JC15 Coral Traits Database (TopoJSON)",
                 "type": "geojson",
-                "url": "test/jc15-coraltraits-topo.geojson",
+                "url": "data/jcu-geojson/jc15-coraltraits-topo.geojson",
                 "initialMessage": {
                   "title": "JC15 Coral Traits",
                   "content": "",
@@ -191,7 +191,7 @@
               {
                 "name": "coralsea_abyssalplain (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_abyssalplain.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_abyssalplain.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -201,7 +201,7 @@
               {
                 "name": "coralsea_bank (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_bank.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_bank.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -211,7 +211,7 @@
               {
                 "name": "geojsoncoralsea_basin (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_basin.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_basin.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -221,7 +221,7 @@
               {
                 "name": "geojsoncoralsea_canyon (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_canyon.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_canyon.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -231,7 +231,7 @@
               {
                 "name": "geojsoncoralsea_dryreef (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_dryreef.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_dryreef.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -241,7 +241,7 @@
               {
                 "name": "geojsoncoralsea_knoll (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_knoll.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_knoll.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -251,7 +251,7 @@
               {
                 "name": "geojsoncoralsea_plateau (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_plateau.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_plateau.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -261,7 +261,7 @@
               {
                 "name": "geojsoncoralsea_reef (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_reef.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_reef.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -271,7 +271,7 @@
               {
                 "name": "geojsoncoralsea_ridge (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_ridge.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_ridge.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -281,7 +281,7 @@
               {
                 "name": "geojsoncoralsea_rise (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_rise.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_rise.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -291,7 +291,7 @@
               {
                 "name": "geojsoncoralsea_seamount (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_seamount.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_seamount.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -301,7 +301,7 @@
               {
                 "name": "geojsoncoralsea_slope (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_slope.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_slope.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -311,7 +311,7 @@
               {
                 "name": "geojsoncoralsea_terrace (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_terrace.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_terrace.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -321,7 +321,7 @@
               {
                 "name": "geojsoncoralsea_trough (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_trough.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_trough.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -331,7 +331,7 @@
               {
                 "name": "geojsoncoralsea_valley (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsoncoralsea_valley.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsoncoralsea_valley.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -341,7 +341,7 @@
               {
                 "name": "geojsongbr_dryreef (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsongbr_dryreef.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsongbr_dryreef.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -351,7 +351,7 @@
               {
                 "name": "geojsongbr_features (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsongbr_features.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsongbr_features.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -361,7 +361,7 @@
               {
                 "name": "geojsongbr_shelf (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsongbr_shelf.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsongbr_shelf.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -371,7 +371,7 @@
               {
                 "name": "geojsongbrwha_outer (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsongbrwha_outer.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsongbrwha_outer.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
@@ -381,7 +381,7 @@
               {
                 "name": "geojsonqld_gbrwha_cscz (GeoJSON)",
                 "type": "geojson",
-                "url": "test/jc05-3dgbr-features/geojsonqld_gbrwha_cscz.geojson",
+                "url": "data/jcu-geojson/jc05-3dgbr-features/geojsonqld_gbrwha_cscz.geojson",
                 "initialMessage": {
                   "title": "JC05 3DGBR-Features",
                   "content": "",
