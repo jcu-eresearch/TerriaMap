@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mcp:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mcp="http://schemas.aodn.org.au/mcp-2.0" xmlns:gts="http://www.isotc211.org/2005/gts" gco:isoType="gmd:MD_Metadata" xsi:schemaLocation="http://schemas.aodn.org.au/mcp-2.0 http://schemas.aodn.org.au/mcp-2.0/schema.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd http://rs.tdwg.org/dwc/terms/ http://schemas.aodn.org.au/mcp-2.0/mcpDwcTerms.xsd">
+<gmd:fileIdentifier>
+<gco:CharacterString>a63119ed-4815-4f53-9637-b1680419a451</gco:CharacterString>
+</gmd:fileIdentifier>
+<gmd:language>
+<gco:CharacterString>eng</gco:CharacterString>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://schemas.aodn.org.au/mcp-2.0/schema/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:parentIdentifier gco:nilReason="missing">
+<gco:CharacterString/>
+</gmd:parentIdentifier>
+<gmd:hierarchyLevel>
+<gmd:MD_ScopeCode codeList="http://schemas.aodn.org.au/mcp-2.0/schema/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+</gmd:hierarchyLevel>
+<gmd:contact>
+<gmd:CI_ResponsibleParty>
+<gmd:organisationName>
+<gco:CharacterString>steven.vandervalk@jcu.edu.au</gco:CharacterString>
+</gmd:organisationName>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://schemas.aodn.org.au/mcp-2.0/schema/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="metadataContact">metadataContact</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:contact>
+<gmd:dateStamp>
+<gco:DateTime>2016-06-16T15:49:50</gco:DateTime>
+</gmd:dateStamp>
+<gmd:metadataStandardName>
+<gco:CharacterString>Australian Marine Community Profile of ISO 19115:2005/19139</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>2.0</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:identificationInfo>
+<mcp:MD_DataIdentification gco:isoType="gmd:MD_DataIdentification">
+<gmd:citation>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>MCP 2.0: Minimum Metadata for Marine Geographic Datasets</gco:CharacterString>
+</gmd:title>
+<gmd:date>
+<gmd:CI_Date>
+<gmd:date>
+<gco:DateTime>2016-06-16</gco:DateTime>
+</gmd:date>
+<gmd:dateType>
+<gmd:CI_DateTypeCode codeList="http://schemas.aodn.org.au/mcp-2.0/schema/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+</gmd:CI_Citation>
+</gmd:citation>
+<gmd:abstract>
+<gco:CharacterString>ShoreView database Continuous geotagged shoreline image database including aerial and boat-based imagery of shoreline habitats across the globe.</gco:CharacterString>
+</gmd:abstract>
+<gmd:language>
+<gco:CharacterString>eng</gco:CharacterString>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://schemas.aodn.org.au/mcp-2.0/schema/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:topicCategory>
+<gmd:MD_TopicCategoryCode>oceans</gmd:MD_TopicCategoryCode>
+</gmd:topicCategory>
+<gmd:extent>
+<gmd:EX_Extent>
+<gmd:geographicElement>
+<gmd:EX_GeographicBoundingBox>
+<gmd:westBoundLongitude>
+<gco:Decimal>-180.00</gco:Decimal>
+</gmd:westBoundLongitude>
+<gmd:eastBoundLongitude>
+<gco:Decimal>180.00</gco:Decimal>
+</gmd:eastBoundLongitude>
+<gmd:southBoundLatitude>
+<gco:Decimal>-80.00</gco:Decimal>
+</gmd:southBoundLatitude>
+<gmd:northBoundLatitude>
+<gco:Decimal>80.00</gco:Decimal>
+</gmd:northBoundLatitude>
+</gmd:EX_GeographicBoundingBox>
+</gmd:geographicElement>
+<gmd:temporalElement>
+<mcp:EX_TemporalExtent gco:isoType="gmd:EX_TemporalExtent">
+<gmd:extent>
+<gml:TimePeriod gml:id="d63048e145a1052958">
+<gml:begin>
+<gml:TimeInstant gml:id="d63048e149a1052958">
+<gml:timePosition>2008-10-01</gml:timePosition>
+</gml:TimeInstant>
+</gml:begin>
+<gml:end>
+<gml:TimeInstant gml:id="d63048e157a1052958">
+<gml:timePosition>2016-06-16</gml:timePosition>
+</gml:TimeInstant>
+</gml:end>
+</gml:TimePeriod>
+</gmd:extent>
+</mcp:EX_TemporalExtent>
+</gmd:temporalElement>
+</gmd:EX_Extent>
+</gmd:extent>
+</mcp:MD_DataIdentification>
+</gmd:identificationInfo>
+<gmd:distributionInfo>
+<gmd:MD_Distribution>
+<gmd:distributionFormat>
+<gmd:MD_Format>
+<gmd:name>
+<gco:CharacterString>JC12-Mangrovewatch ESRI Shapefiles</gco:CharacterString>
+</gmd:name>
+<gmd:version>
+<gco:CharacterString>1.0</gco:CharacterString>
+</gmd:version>
+</gmd:MD_Format>
+</gmd:distributionFormat>
+<gmd:transferOptions>
+<gmd:MD_DigitalTransferOptions>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://rdsi-geo1.hpc.jcu.edu.au/geonetwork/srv/en/metadata.show?uuid=a63119ed-4815-4f53-9637-b1680419a451</gmd:URL>
+</gmd:linkage>
+<gmd:protocol>
+<gco:CharacterString>WWW:LINK-1.0-http--metadata-URL</gco:CharacterString>
+</gmd:protocol>
+<gmd:description>
+<gco:CharacterString>Point of truth URL of this metadata record</gco:CharacterString>
+</gmd:description>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://137.219.15.106/geoserver/JC12-Mangrovewatch/wms?service=WMS&version=1.1.0&request=GetMap&layers=JC12-Mangrovewatch:Boigu&styles=&bbox=-9.290033,142.130029,-9.229399,142.29493&width=188&height=512&srs=EPSG:4326&format=application/openlayers</gmd:URL>
+</gmd:linkage>
+<gmd:protocol>
+<gco:CharacterString>OGC:WMS</gco:CharacterString>
+</gmd:protocol>
+<gmd:name>
+<gmx:MimeFileType xmlns:gmx="http://www.isotc211.org/2005/gmx" type=""/>
+</gmd:name>
+<gmd:description>
+<gco:CharacterString>Boigu Island Mangrove Imagery Locations</gco:CharacterString>
+</gmd:description>
+</gmd:CI_OnlineResource>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://137.219.15.106/geoserver/JC12-Mangrovewatch/wms?service=WMS&version=1.1.0&request=GetMap&layers=JC12-Mangrovewatch:sassie&styles=&bbox=142.82645,-10.05345,142.86947,-10.01918&width=512&height=407&srs=EPSG:4326&format=application/openlayers</gmd:URL>
+</gmd:linkage>
+<gmd:protocol>
+<gco:CharacterString>OGC:WMS</gco:CharacterString>
+</gmd:protocol>
+<gmd:name>
+<gmx:MimeFileType xmlns:gmx="http://www.isotc211.org/2005/gmx" type=""/>
+</gmd:name>
+<gmd:description>
+<gco:CharacterString>Sassie Island Mangrove Imagery Locations</gco:CharacterString>
+</gmd:description>
+</gmd:CI_OnlineResource>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://137.219.15.106/geoserver/JC12-Mangrovewatch/wms?service=WMS&version=1.1.0&request=GetMap&layers=JC12-Mangrovewatch:TorresStraight-Masig&styles=&bbox=143.39781,-9.75756,143.42391,-9.74817&width=917&height=330&srs=EPSG:4326&format=application/openlayers</gmd:URL>
+</gmd:linkage>
+<gmd:protocol>
+<gco:CharacterString>OGC:WMS</gco:CharacterString>
+</gmd:protocol>
+<gmd:name>
+<gmx:MimeFileType xmlns:gmx="http://www.isotc211.org/2005/gmx" type=""/>
+</gmd:name>
+<gmd:description>
+<gco:CharacterString>Torres Straight Masign Island Mangrove Imagery Locations</gco:CharacterString>
+</gmd:description>
+</gmd:CI_OnlineResource>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://137.219.15.106/geoserver/JC12-Mangrovewatch/wms?service=WMS&version=1.1.0&request=GetMap&layers=JC12-Mangrovewatch:Iama&styles=&bbox=142.76474,-9.90876,142.78517,-9.89395&width=512&height=371&srs=EPSG:4326&format=application/openlayers</gmd:URL>
+</gmd:linkage>
+<gmd:protocol>
+<gco:CharacterString>OGC:WMS</gco:CharacterString>
+</gmd:protocol>
+<gmd:name>
+<gmx:MimeFileType xmlns:gmx="http://www.isotc211.org/2005/gmx" type=""/>
+</gmd:name>
+<gmd:description>
+<gco:CharacterString>Island Island Mangrove Imagery Locations</gco:CharacterString>
+</gmd:description>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+</gmd:MD_DigitalTransferOptions>
+</gmd:transferOptions>
+</gmd:MD_Distribution>
+</gmd:distributionInfo>
+<mcp:revisionDate>
+<gco:DateTime>2016-06-16T15:49:50</gco:DateTime>
+</mcp:revisionDate>
+</mcp:MD_Metadata>

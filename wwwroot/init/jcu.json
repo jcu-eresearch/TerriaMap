@@ -125,7 +125,7 @@
             {
               "name": "Brisbane River Left Hand Side 2011 (GeoJSON)",
               "type": "geojson",
-              "url": "https:/cdn.rawgit.com/jcu-eresearch/RDS-Marine-Services/master/datasets/JC12-Mangrovewatch/geojson/brisbane-river-lhs.geojson",
+              "url": "data/jcu-geojson/jc12-mangrovewatch/geojson/brisbane-river-lhs.geojson",
               "initialMessage": {
                 "title": "JC12-Mangrovewatch",
                 "content": "",
@@ -153,9 +153,9 @@
               }
             },
             {
-              "name": "Brisbane River Right Hand Side 2001 (GeoJSON)",
+              "name": "Brisbane River Right Hand Side 2011 (GeoJSON)",
               "type": "geojson",
-              "url": "data/jcu-geojson/jc12-mangrovewatch/brisbane-river-rhs.geojson",
+              "url": "data/jcu-geojson/jc12-mangrovewatch/geojson/brisbane-river-rhs.geojson",
               "initialMessage": {
                 "title": "JC12-Mangrovewatch",
                 "content": "",
