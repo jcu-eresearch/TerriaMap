@@ -24,6 +24,8 @@ Open your browser to http://localhost:3001
 
 ## Updating release deploys on server
 
+From http://terria.io/Documentation/guide/deploying/deploying-terriamap/
+
 ```shell
 # Stop the server
 npm stop
