@@ -21,7 +21,9 @@
 
 $tdh-background: #2d4048;
 $tdh-headerbackground: #242732;
-$tdh-bodybackground: #efe6c5;
+// Original TDH value but not great for timeline readability
+//$tdh-bodybackground: #efe6c5;
+$tdh-bodybackground: #2d4048;
 
 $tdh-highlight: #28867c;
 $tdh-green-highlight: #28867c;
