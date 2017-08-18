@@ -25,7 +25,7 @@
 
               {
                 "name": "Non-Routine Cognitive Total Workers",
-                "type": "csv-geo-au",
+                "type": "csv",
                 "url": "data/workforce/non-routine-cognitive/total.csv",
                 "initialMessage": {
                   "title": "Percentage of Total Workers doing Non Routine Cognitive Occupations",
@@ -35,7 +35,7 @@
               },
               {
                 "name": "Non-Routine Cognitive Full Time Workers",
-                "type": "csv-geo-au",
+                "type": "csv",
                 "url": "data/workforce/non-routine-cognitive/fulltime.csv",
                 "initialMessage": {
                   "title": "Percentage of Full Time Workers doing Non Routine Cognitive Occupations",
@@ -45,7 +45,7 @@
               },
               {
                 "name": "Non-Routine Cognitive Part Time Workers",
-                "type": "csv-geo-au",
+                "type": "csv",
                 "url": "data/workforce/non-routine-cognitive/parttime.csv",
                 "initialMessage": {
                   "title": "Percentage of Part Time Workers doing Non Routine Cognitive Occupations",
