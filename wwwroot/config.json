@@ -2,10 +2,11 @@
     "initializationUrls" : [
         // "ga",
         // "test",
-        "jcu",
+        // "jcu",
         "ga",
         "nm",
-        "ckan"
+        "ckan",
+        "workforce"
 
         // "nm"
         // "csiro"
