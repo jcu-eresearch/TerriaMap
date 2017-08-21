@@ -12,6 +12,9 @@
     "url": "http://github.com/NICTA/nationalmap"
   },
   "dependencies": {
+    "gulp-less": "^3.3.2",
+    "gulp-rename": "^1.2.2",
+    "less-plugin-npm-import": "^2.1.0",
     "terriajs-server": "^2.6.2"
   },
   "config": {
