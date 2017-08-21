@@ -16,7 +16,7 @@ body {
 
     // To customise the look of your Terria Map, uncomment this section and make changes to your heart's content
     // You will also want to uncomment and change values in lib/Styles/variables.scss
-    /*
+    
     // Import any custom fonts here
     //@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700);
 
@@ -152,7 +152,7 @@ body {
     }
       // The currently selected item in the list
     .tjs-data-catalog-item__btn-catalog-item--is-previewed {
-        ,&:focus {color: $color-primary; }
+        &:focus {color: $color-primary; }
     }
       // The tabs at the top
     .tjs-tabs__btn--tab {
@@ -165,6 +165,6 @@ body {
     .tjs-tabs__btn--tab:hover {
         color:$color-secondary;
     }
-    */
+    
 
 }
