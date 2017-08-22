@@ -27,7 +27,7 @@
               "type": "csv",
               "url": "data/workforce/routine-cognitive/total.csv",
               "initialMessage": {
-                "title": "Percentage of Total Workers doing Non Routine Cognitive Occupations",
+                "title": "Percentage of Total Workers in Non Routine Cognitive Occupations",
                 "content": "",
                 "key": ""
               }
@@ -37,7 +37,7 @@
               "type": "csv",
               "url": "data/workforce/routine-cognitive/fulltime.csv",
               "initialMessage": {
-                "title": "Percentage of Full Time Workers doing Non Routine Cognitive Occupations",
+                "title": "Percentage of Full Time Workers in Non Routine Cognitive Occupations",
                 "content": "",
                 "key": ""
               }
@@ -47,7 +47,45 @@
               "type": "csv",
               "url": "data/workforce/routine-cognitive/parttime.csv",
               "initialMessage": {
-                "title": "Percentage of Part Time Workers doing Non Routine Cognitive Occupations",
+                "title": "Percentage of Part Time Workers in Non Routine Cognitive Occupations",
+                "content": "",
+                "key": ""
+              }
+            }
+          ]
+        },
+        {
+          "name": "Routine Manual",
+          "type": "group",
+          "isOpen": true,
+          "items": [
+
+            {
+              "name": "Routine-Manual Total Workers",
+              "type": "csv",
+              "url": "data/workforce/routine-manual/total.csv",
+              "initialMessage": {
+                "title": "Percentage of Total Workers in Routine Manual Occupations",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Routine-Manual Percent of Full Time Workers",
+              "type": "csv",
+              "url": "data/workforce/routine-manual/fulltime.csv",
+              "initialMessage": {
+                "title": "Percentage of Full Time Workers in Routine Manual Occupations",
+                "content": "",
+                "key": ""
+              }
+            },
+            {
+              "name": "Routine-Manual Percent of Part Time Workers",
+              "type": "csv",
+              "url": "data/workforce/routine-manual/parttime.csv",
+              "initialMessage": {
+                "title": "Percentage of Part Time Workers in Routine Manual Occupations",
                 "content": "",
                 "key": ""
               }
@@ -65,7 +103,7 @@
                 "type": "csv",
                 "url": "data/workforce/non-routine-cognitive/total.csv",
                 "initialMessage": {
-                  "title": "Percentage of Total Workers doing Non Routine Cognitive Occupations",
+                  "title": "Percentage of Total Workers in Non Routine Cognitive Occupations",
                   "content": "",
                   "key": ""
                 }
@@ -75,7 +113,7 @@
                 "type": "csv",
                 "url": "data/workforce/non-routine-cognitive/fulltime.csv",
                 "initialMessage": {
-                  "title": "Percentage of Full Time Workers doing Non Routine Cognitive Occupations",
+                  "title": "Percentage of Full Time Workers in Non Routine Cognitive Occupations",
                   "content": "",
                   "key": ""
                 }
@@ -85,7 +123,7 @@
                 "type": "csv",
                 "url": "data/workforce/non-routine-cognitive/parttime.csv",
                 "initialMessage": {
-                  "title": "Percentage of Part Time Workers doing Non Routine Cognitive Occupations",
+                  "title": "Percentage of Part Time Workers in Non Routine Cognitive Occupations",
                   "content": "",
                   "key": ""
                 }
@@ -103,7 +141,7 @@
                 "type": "csv",
                 "url": "data/workforce/non-routine-manual/total.csv",
                 "initialMessage": {
-                  "title": "Percentage of Total Workers doing Non Routine manualo Occupations",
+                  "title": "Percentage of Total Workers in Non Routine manualo Occupations",
                   "content": "",
                   "key": ""
                 }
@@ -113,7 +151,7 @@
                 "type": "csv",
                 "url": "data/workforce/non-routine-manual/fulltime.csv",
                 "initialMessage": {
-                  "title": "Percentage of Full Time Workers doing Non Routine manual Occupations",
+                  "title": "Percentage of Full Time Workers in Non Routine Manual Occupations",
                   "content": "",
                   "key": ""
                 }
@@ -123,7 +161,7 @@
                 "type": "csv",
                 "url": "data/workforce/non-routine-manual/parttime.csv",
                 "initialMessage": {
-                  "title": "Percentage of Part Time Workers doing Non Routine manual Occupations",
+                  "title": "Percentage of Part Time Workers in Non Routine manual Occupations",
                   "content": "",
                   "key": ""
                 }
